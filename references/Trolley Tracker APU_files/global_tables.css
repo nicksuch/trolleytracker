@@ -1,0 +1,49 @@
+/*
+STANDARD TABLES
+*/
+table.standard {
+	width: 100%;
+	background-color: #f8f8f8;
+	border: 1px solid #ddd;
+}
+table.standard caption {
+	text-align:left;
+	font-weight:bold;
+}
+table.standard tr {
+	border: 1px dashed #ddd;
+}
+table.standard td.left-border,
+table.standard th.left-border {
+	border-left: 1px dashed #ddd;
+}
+table.standard td.right-border,
+table.standard th.right-border {
+	border-right: 1px dashed #ddd;
+}
+table.standard td,
+table.standard th {
+	padding: 7px;
+	text-align: left;
+	font-weight: normal;
+	vertical-align: top;
+}
+table.standard td {
+	text-align: right;
+}
+table.standard tr.header {
+	background-color: #ddd;
+	border: 1px solid #ddd;
+}
+table.standard tr.caption th,
+table.standard tr.caption td {
+	text-align:center;
+}
+table.standard tr.header td,
+table.standard tr.header th {
+	font-weight: bold;
+}
+table.standard tr.emphasis td, table.standard td.emphasis,
+table.standard tr.emphasis th, table.standard th.emphasis {
+	font-weight: bold;
+}

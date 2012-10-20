@@ -1,0 +1,242 @@
+html {
+	background-color: #bbb;
+}
+body {
+	background-color: #bbb;
+	padding: 0;
+	margin: 0;
+	font-family: arial, sans-serif;
+	font-size: 12px;
+}
+a {
+	color: #900;
+}
+
+#content {
+	width: 100%;
+}
+
+#header a {
+	display: block;
+	background-color: #900;
+	padding: .7em;
+	padding-left: 1em;
+	font-weight: bold;
+	color: #fff;
+	/*border-bottom: 1px solid #000;*/
+	text-decoration: none;
+}
+
+a.back {
+	display: block;
+	padding: .6em;
+	padding-left: 1em;
+	background-color: #eee;
+	color: #000;
+	text-decoration: none;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	font-size: .9em;
+}
+
+div.menu {
+	border-top: 1px solid #999;
+}
+div.menu a {
+	display: block;
+	zoom: 1; /* Force hasLayout for IE */
+	padding: 1em;
+	padding-left: 1em;
+	margin: 0;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #fff;
+	border-bottom: 1px solid #999;
+}
+
+div.footer {
+	margin: 1em 0 1em 0;
+	font-size: 80%;
+	text-align: right;
+	color: #444;
+	padding: 10px 10px 15px 0;
+	background: transparent url(/m/images/apu_logo.png) no-repeat 10px 0;
+}
+
+div.mobile-content {
+	padding: 1em;
+	background-color: #fff;
+	/*border-bottom: 1px solid #999;*/
+}
+
+table.menu {
+	width: 100%;
+	background-color: #fff;
+}
+table.menu td {
+	text-align: center;
+	padding: .5em;
+}
+table.menu td a {
+	display: block;
+	padding: .5em;
+	background-color: #fff;
+	border: 1px solid #999;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+th {
+	text-align: right;
+	font-weight: normal;
+	padding-right: .5em;
+	vertical-align: top;
+}
+
+/* General stuff */
+
+.list-item-title {
+	font-weight: bold;
+}
+.list-item-info {
+	font-size: .85em;
+	font-style: italic;
+	font-weight: normal;
+}
+.content-item-title {
+	font-weight: bold;
+	font-size: 110%;
+}
+.content-item-info {
+	font-style: italic;
+}
+a.btn {
+	padding: 1px 4px;
+	background-color: #888;
+	border: 1px solid #666;
+	text-decoration: none;
+	color: #fff;
+	font-size: .9em;
+}
+div.single-tweet {
+	font-size: 95%;
+	padding: .7em;
+	padding-left: 1em;
+	background: #D7D6C2 url('/m/i/images/apu_twit.png') no-repeat bottom right;
+	border-top: 1px solid #999;
+}
+div.list-tweet {
+	font-size: 95%;
+	padding: .7em;
+	padding-left: 1em;
+}
+div.tweet-time {
+	color: #666;
+	font-style: italic;
+	font-size: 90%;
+	margin-top: .5em;
+}
+
+
+/* Specific stuff */
+
+.food_place, .a_day {
+	padding-top: .5em;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.a_day {
+	padding-bottom: 10px;
+}
+.a_days {
+	padding-left: 5px;
+}
+.food_announcement, .food_tab {
+	font-size: 1.2em;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+.food_announcement {
+	
+}
+.food_tab {
+	padding-top: .5em;
+}
+.food_menu .alt, .class_schedule .alt {
+	background-color: #E7EAF2;
+}
+.food_type, .a_time {
+	padding:2px;
+	font-weight: bold;
+	vertical-align:top;
+	color: #555;
+	border-right: 1px solid #fff;
+}
+.a_time {
+	width: 120px;
+}
+.food_type {
+	width: 100px;
+}
+.food_name {
+	padding:2px;
+	vertical-align:top;
+	font-size: .9em;
+}
+.class_schedule {
+	margin-bottom: 1em;
+}
+
+.event-description {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: .5em;
+	background-color: #eee;
+}
+.event-location {
+	font-size: 95%;
+	margin-top: .7em;
+}
+
+div.important-numbers {
+	padding: .7em;
+	padding-left: 1em;
+	background-color: #fff;
+	border-bottom: 1px solid #999;
+	font-size: 95%;
+	line-height: 1.5em;
+}
+
+form.search {
+	margin: 0;
+	padding: .7em;
+	padding-left: 1em;
+	text-align: center;
+}
+form.search-results {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 2em;
+}
+form.search-results div.page-nav {
+	margin-top: .5em;
+}
+
+div.search-result-normal, div.search-result-keymatch {
+	margin-bottom: 1em;
+}
+div.search-result-normal table {
+	font-size: 95%;
+}
+div.search-result-normal td.s font {
+	color: #666;
+	display: none;
+}
+div.search-result-keymatch {
+	background-color: #eee;
+	padding: .7em;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+}

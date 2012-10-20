@@ -1,0 +1,280 @@
+/* ************************************************************************** */
+/*                                 Reset Styles                               */
+/* ************************************************************************** */
+
+/*
+"reset-min.css"
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.7.0
+*/
+/*
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}del,ins{text-decoration:none;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:baseline;}sub{vertical-align:baseline;}legend{color:#000;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}
+*/
+
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/ 
+ **/
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; content: none; }
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+del { text-decoration: line-through; }
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+table { border-collapse: collapse; border-spacing: 0; }
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+/*
+"fonts-min.css"
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.7.0
+*/
+body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}select,input,button,textarea,button{font:99% arial,helvetica,clean,sans-serif;}table{font-size:inherit;font:100%;}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%;}
+
+/*
+"base-min.css"
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.7.0
+*/
+body{margin:10px;}h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em 0;}h1,h2,h3,h4,h5,h6,strong,dt{font-weight:bold;}optgroup{font-weight:normal;}abbr,acronym{border-bottom:1px dotted #000;cursor:help;}em{font-style:italic;}del{text-decoration:line-through;}blockquote,ul,ol,dl{margin:1em;}ol,ul,dl{margin-left:2em;}ol li{list-style:decimal outside;}ul li{list-style:disc outside;}dl dd{margin-left:1em;}th,td{border:1px solid #000;padding:.5em;}th{font-weight:bold;text-align:center;}caption{margin-bottom:.5em;text-align:center;}sup{vertical-align:super;}sub{vertical-align:sub;}p,fieldset,table,pre,address{margin-bottom:1em;}button,input[type="checkbox"],input[type="radio"],input[type="reset"],input[type="submit"]{padding:1px;}
+
+
+/* ************************************************************************** */
+/*                          Basic APU-Specific Settings                       */
+/* ************************************************************************** */
+
+body {
+	margin: 0;
+	padding-bottom: 20px;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+/*	margin-bottom: .5em; */
+}
+h3 {
+	/*text-transform: lowercase;
+	font-variant: small-caps; */
+}
+
+/*
+We need to be very specific with the h's.
+*/
+h1 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	border: 0;
+	font-size: 1.85em;	/* 24px approx. */
+}
+
+h2 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	color: #000;
+	border: 0;
+	
+	font-size: 1.70em;  /* 22px approx. */
+	margin-bottom: 0.7em;
+}
+
+h3 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	color: #000;
+	border: 0;
+	
+	font-size: 1.467em;	/* 19px approx */
+	line-height: 1.25em; 
+	margin-top: 1.2em; 
+	margin-bottom: 0.5em;
+} 
+
+	
+h4,
+#content_3rd_level h3 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	color: #000;
+	border: 0;
+	
+	font-size: 1.31em; /* 17px approx */
+	font-style: italic;
+	line-height: 1.5em; 
+	margin-top: .9em; 
+	margin-bottom: 0.4em;
+	
+}
+
+h5,
+#content_3rd_level h4 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	color: #000;
+	border: 0;
+	
+	font-size: 1.16em;
+	font-weight: bold;
+	line-height: 1.25em; 
+	margin-top: 1.3em; 
+	margin-bottom: 0.6em;
+}
+
+h6,
+#content_3rd_level h5 {
+	font-family: Georgia, Times New Roman, serif;
+	font-weight: normal;
+	color: #000;
+	border: 0;
+	
+	font-size: 1.16em;
+	font-style: italic;
+	line-height: 1.25em; 
+	margin-top: 1.5em; 
+	margin-bottom: 0.6em;
+/*	text-transform: uppercase; */
+}
+
+p, blockquote, li {
+	line-height: 1.4em;
+}
+blockquote {
+	margin-left: 3em;
+}
+
+ul, ol {
+	margin-top: 0.45em; 
+	margin-bottom: 1em;
+}
+
+ol > li {
+	list-style:decimal outside;
+}
+ol.lower-alpha > li {
+	list-style-type: lower-alpha;
+}
+ol.upper-alpha > li {
+	list-style-type: upper-alpha;
+}
+
+ul > li {
+	list-style:disc outside;
+}
+
+/* as of 2010-09-13 */
+/*h1 { font-size: 182%; }
+h2 { font-size: 155%; }
+h3 { font-size: 135%; }
+h4 { font-size: 120%; }
+h5 { font-size: 110%; font-style: italic; }*/
+
+a {
+	color: #700;
+}
+a:hover {
+	color: #b00;
+}
+
+a.highslide {	/* Highslide removes underline in anchor tags */
+	text-decoration: underline;
+}
+
+a img {
+	border-width: 0;
+}
+
+th,td {
+	border: none;
+	padding: 0;
+}
+
+input[type="radio"] {
+	margin: 0 5px 0 3px;
+}
+
+input[disabled], input[disabled="disabled"], input.disabled {
+	color: #666;
+}
+
+li {
+	margin-bottom: .4em;
+}
+
+sup {
+	font-size: .75em;
+}
+
+address {
+	font-style: normal;
+}
+
+
+/* ************************************************************************** */
+/*                                Special Stuff                               */
+/* ************************************************************************** */
+div.include-section {
+	margin: 1em 0;
+	border: 3px double #000;
+}
+div.include-section div.filepath {
+	font-size: 12px;
+	padding-left: 4px;
+	color: #000;
+	font-weight: bold;
+}
+
+/* Warning styles */
+html.not-live .warning {
+	background-color: #ff0 !important;
+	border: 1px dashed #f00 !important;
+}
+html.live .warning {
+	display: none !important;
+}
+
+.print-only {
+	display: none;
+}
+
+
+/* ************************************************************************** */
+/*                                 "Clear Fix"                                */
+/*              http://nicolasgallagher.com/micro-clearfix-hack/              */
+/* ************************************************************************** */
+
+/* For modern browsers */
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after {
+    clear:both;
+}
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+    zoom:1;
+}
+
+
+/* ************************************************************************** */
+/*                     Hide Text for Image Replacement                        */
+/* http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/ */
+/* ************************************************************************** */
+
+.hide-text {
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}

@@ -1,0 +1,10 @@
+TODO
+
+## Create Map ##
+1. Get Leaflet map loading for Lexington
+
+## Create Route File ##
+1. Geolocate a few stops along route
+
+## Create Moving point ##
+1. Use time(); function

@@ -1,0 +1,2208 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+5,7,1875,"Man O' War Blvd",,,11
+5,7,1876,"Man O' War Blvd",,,12
+5,7,1877,"Man O' War Blvd",,,13
+5,7,1878,"Man O' War Blvd",,,14
+5,7,1879,"Man O' War Blvd",,,15
+5,7,1880,"Man O' War Blvd",,,16
+5,7,1881,"Man O' War Blvd",,,17
+5,7,1882,"Man O' War Blvd",,,18
+5,7,1883,"Man O' War Blvd",,,19
+5,7,1884,"Man O' War Blvd",,,20
+5,7,1885,"Man O' War Blvd",,,21
+5,7,1886,"Man O' War Blvd",,,22
+5,7,1887,"Man O' War Blvd",,,23
+5,7,1888,"Man O' War Blvd",,,24
+5,26,1890,"Man O' War Blvd",,,26
+5,26,1891,"Man O' War Blvd",,,27
+5,26,1892,"Man O' War Blvd",,,28
+5,7,1895,"Transit Center",,,29
+5,7,1896,"Transit Center",,,30
+5,7,1897,"Transit Center",,,31
+5,7,1898,"Transit Center",,,32
+5,7,1899,"Transit Center",,,33
+5,7,1900,"Transit Center",,,34
+5,7,1901,"Transit Center",,,35
+5,7,1902,"Transit Center",,,36
+5,7,1903,"Transit Center",,,37
+5,7,1904,"Transit Center",,,38
+5,7,1905,"Transit Center",,,39
+5,7,1906,"Transit Center",,,40
+5,7,1907,"Transit Center",,,41
+5,7,1908,"Transit Center",,,42
+5,7,1909,"Transit Center",,,43
+5,7,1910,"Transit Center",,,44
+5,7,1911,"Transit Center",,,45
+5,7,1912,"Transit Center",,,46
+5,7,1913,"Transit Center",,,47
+5,7,1914,"Transit Center",,,48
+5,7,1915,"Transit Center",,,49
+5,7,1916,"Man O' War Blvd",,,3
+5,7,1917,"Man O' War Blvd",,,4
+5,7,1918,"Man O' War Blvd",,,5
+5,7,1919,"Man O' War Blvd",,,6
+5,7,1920,"Man O' War Blvd",,,7
+5,7,1921,"Man O' War Blvd",,,8
+5,7,1922,"Man O' War Blvd",,,9
+5,7,1923,"Man O' War Blvd",,,10
+5,8,1924,"Man O' War Blvd",,,54
+5,8,1925,"Man O' War Blvd",,,55
+5,8,1926,"Man O' War Blvd",,,56
+5,8,1927,"Man O' War Blvd",,,57
+5,8,1928,"Man O' War Blvd",,,58
+5,8,1929,"Man O' War Blvd",,,59
+5,8,1930,"Man O' War Blvd",,,60
+5,8,1931,"Man O' War Blvd",,,61
+5,8,1932,"Man O' War Blvd",,,62
+5,8,1933,"Man O' War Blvd",,,63
+5,8,1934,"Man O' War Blvd",,,64
+5,8,1935,"Man O' War Blvd",,,65
+5,8,1936,"Man O' War Blvd",,,66
+5,8,1937,"Man O' War Blvd",,,67
+65,7,1953,"Jaggie Fox",,,68
+65,7,1954,"Transit Center",,,92
+65,7,1955,"Transit Center",,,101
+65,7,1956,"Transit Center",,,102
+65,7,1957,"Transit Center",,,103
+65,7,1958,"Transit Center",,,104
+65,7,1959,"Transit Center",,,105
+65,7,1960,"Transit Center",,,106
+65,7,1961,"Transit Center",,,107
+65,7,1962,"Transit Center",,,108
+65,7,1963,"Transit Center",,,109
+65,7,1964,"Transit Center",,,110
+65,7,1965,"Transit Center",,,111
+65,7,1966,"Transit Center",,,112
+65,7,1967,"Transit Center",,,113
+65,7,1968,"Transit Center",,,114
+65,7,1969,"Transit Center",,,115
+65,7,1975,"Transit Center",,,93
+65,7,1976,"Transit Center",,,94
+65,7,1977,"Transit Center",,,95
+65,7,1978,"Transit Center",,,96
+65,7,1979,"Transit Center",,,97
+65,7,1980,"Transit Center",,,98
+65,7,1981,"Transit Center",,,99
+65,7,1982,"Transit Center",,,100
+65,7,1983,"Jaggie Fox",,,69
+65,7,1984,"Jaggie Fox",,,70
+65,7,1985,"Jaggie Fox",,,71
+65,7,1986,"Jaggie Fox",,,72
+65,7,1987,"Jaggie Fox",,,73
+65,7,1988,"Jaggie Fox",,,74
+65,7,1989,"Jaggie Fox",,,75
+65,7,1990,"Jaggie Fox",,,76
+65,7,1991,"Jaggie Fox",,,77
+65,7,1992,"Jaggie Fox",,,78
+65,7,1993,"Jaggie Fox",,,79
+65,7,1994,"Jaggie Fox",,,80
+65,7,1995,"Jaggie Fox",,,81
+65,7,1996,"Jaggie Fox",,,82
+65,7,1997,"Jaggie Fox",,,83
+65,7,1998,"Jaggie Fox",,,84
+65,7,1999,"Jaggie Fox",,,85
+65,7,2000,"Jaggie Fox",,,86
+65,7,2001,"Jaggie Fox",,,87
+65,7,2002,"Jaggie Fox",,,88
+65,10,2003,"Jaggie Fox",,,117
+65,10,2004,"Jaggie Fox",,,118
+65,10,2005,"Jaggie Fox",,,119
+65,10,2006,"Jaggie Fox",,,120
+65,10,2007,"Jaggie Fox",,,121
+65,10,2008,"Jaggie Fox",,,122
+65,10,2009,"Jaggie Fox",,,123
+65,10,2010,"Jaggie Fox",,,124
+65,10,2011,"Jaggie Fox",,,125
+65,10,2012,"Jaggie Fox",,,126
+65,10,2013,"Jaggie Fox",,,127
+65,10,2014,"Jaggie Fox",,,128
+65,10,2015,"Jaggie Fox",,,129
+65,10,2016,"Jaggie Fox",,,130
+65,10,2017,"Jaggie Fox",,,131
+65,10,2019,"Transit Center",,,132
+65,10,2020,"Transit Center",,,133
+65,10,2021,"Transit Center",,,134
+65,10,2022,"Transit Center",,,135
+65,10,2023,"Transit Center",,,136
+65,10,2024,"Transit Center",,,137
+65,10,2025,"Transit Center",,,138
+65,10,2026,"Transit Center",,,139
+65,10,2027,"Transit Center",,,140
+65,10,2028,"Transit Center",,,141
+65,10,2029,"Transit Center",,,142
+65,10,2030,"Transit Center",,,143
+65,10,2031,"Transit Center",,,144
+65,10,2032,"Transit Center",,,145
+65,10,2033,"Transit Center",,,146
+65,9,2035,"Jaggie Fox",,,147
+65,9,2036,"Jaggie Fox",,,148
+65,9,2037,"Jaggie Fox",,,149
+65,9,2038,"Jaggie Fox",,,150
+65,9,2039,"Jaggie Fox",,,151
+65,9,2040,"Jaggie Fox",,,152
+65,9,2041,"Jaggie Fox",,,153
+65,9,2042,"Jaggie Fox",,,154
+65,9,2043,"Jaggie Fox",,,155
+65,9,2044,"Jaggie Fox",,,156
+65,9,2045,"Jaggie Fox",,,157
+65,9,2046,"Jaggie Fox",,,158
+65,9,2047,"Jaggie Fox",,,159
+65,9,2051,"Transit Center",,,160
+65,9,2052,"Transit Center",,,161
+65,9,2053,"Transit Center",,,162
+65,9,2054,"Transit Center",,,163
+65,9,2055,"Transit Center",,,164
+65,9,2056,"Transit Center",,,165
+65,9,2057,"Transit Center",,,166
+65,9,2058,"Transit Center",,,167
+65,9,2059,"Transit Center",,,168
+65,9,2060,"Transit Center",,,169
+65,9,2061,"Transit Center",,,170
+65,9,2062,"Transit Center",,,171
+65,9,2063,"Transit Center",,,172
+65,9,2064,"Transit Center",,,173
+65,26,2067,"Jaggie Fox",,,174
+65,26,2068,"Jaggie Fox",,,175
+65,26,2069,"Jaggie Fox",,,176
+65,26,2070,"Transit  Center",,,177
+65,26,2071,"Transit Center",,,178
+65,26,2072,"Transit  Center",,,179
+66,7,2073,"Wal-Mart",,,180
+66,7,2074,"Wal-Mart",,,181
+66,7,2075,"Wal-Mart",,,182
+66,7,2076,"Wal-Mart",,,183
+66,7,2077,"Wal-Mart",,,184
+66,7,2078,"Wal-Mart",,,185
+66,7,2079,"Wal-Mart",,,186
+66,7,2080,"Wal-Mart",,,187
+66,7,2081,"Wal-Mart",,,188
+66,7,2082,"Wal-Mart",,,189
+66,7,2083,"Wal-Mart",,,190
+66,7,2084,"Wal-Mart",,,191
+66,7,2085,"Wal-Mart",,,192
+66,7,2086,"Wal-Mart",,,193
+66,7,2087,"Wal-Mart",,,194
+66,7,2088,"Wal-Mart",,,195
+66,7,2089,"Wal-Mart",,,196
+66,7,2090,"Wal-Mart",,,197
+66,7,2091,"Wal-Mart",,,198
+66,7,2092,"Wal-Mart",,,200
+66,7,2093,"Wal-Mart",,,202
+68,9,2115,"Transit Center",,,203
+68,9,2116,"Transit Center",,,204
+68,9,2117,"Transit Center",,,205
+68,9,2118,"Transit Center",,,206
+68,9,2119,"Transit Center",,,207
+68,9,2120,"Transit Center",,,208
+68,9,2121,"Transit Center",,,209
+68,9,2122,"Transit Center",,,210
+68,9,2123,"Transit Center",,,211
+68,9,2124,"Transit Center",,,212
+68,9,2125,"Transit Center",,,213
+68,9,2126,"Transit Center",,,214
+68,9,2127,"Transit Center",,,215
+68,9,2128,"Transit Center",,,216
+68,9,2129,"Transit Center",,,217
+68,9,2130,"Transit Center",,,218
+68,9,2131,"Transit Center",,,219
+68,9,2132,"Transit Center",,,220
+68,9,2133,"Transit Center",,,221
+68,9,2134,"Transit Center",,,222
+68,9,2135,"Transit Center",,,223
+66,9,2136,"Wal-Mart",,,226
+66,9,2137,"Wal-Mart",,,227
+66,9,2138,"Wal-Mart",,,228
+66,9,2139,"Wal-Mart",,,229
+66,9,2140,"Wal-Mart",,,230
+66,9,2141,"Wal-Mart",,,231
+66,9,2142,"Wal-Mart",,,232
+66,9,2143,"Wal-Mart",,,233
+66,9,2144,"Wal-Mart",,,234
+66,9,2145,"Wal-Mart",,,235
+66,9,2146,"Wal-Mart",,,236
+66,9,2147,"Wal-Mart",,,237
+66,9,2148,"Wal-Mart",,,238
+66,9,2149,"Wal-Mart",,,239
+66,9,2150,"Wal-Mart",,,240
+66,9,2151,"Wal-Mart",,,241
+66,9,2152,"Wal-Mart",,,242
+66,9,2153,"Wal-Mart",,,243
+66,9,2154,"Wal-Mart",,,244
+66,9,2155,"Wal-Mart",,,245
+66,9,2156,"Wal-Mart",,,246
+66,10,2157,"Appian Way",,,252
+66,10,2158,"Appian Way",,,253
+66,10,2159,"Appian Way",,,254
+66,10,2160,"Appian Way",,,255
+66,10,2161,"Appian Way",,,256
+66,10,2162,"Appian Way",,,257
+66,10,2163,"Appian Way",,,258
+66,10,2164,"Appian Way",,,259
+66,10,2165,"Appian Way",,,260
+66,10,2166,"Appian Way",,,261
+66,10,2167,"Appian Way",,,262
+66,10,2168,"Appian Way",,,263
+66,10,2169,"Appian Way",,,264
+66,10,2170,"Appian Way",,,265
+66,10,2171,"Appian Way",,,266
+66,10,2172,"Appian Way",,,267
+66,10,2173,"Transit Center",,,268
+66,10,2174,"Transit Center",,,269
+66,10,2175,"Transit Center",,,270
+66,10,2176,"Transit Center",,,271
+66,10,2177,"Transit Center",,,272
+66,10,2178,"Transit Center",,,273
+66,10,2179,"Transit Center",,,274
+66,10,2180,"Transit Center",,,275
+66,10,2181,"Transit Center",,,276
+66,10,2182,"Transit Center",,,277
+66,10,2183,"Transit Center",,,278
+66,10,2184,"Transit Center",,,279
+66,10,2185,"Transit Center",,,280
+66,10,2186,"Transit Center",,,281
+66,10,2187,"Transit Center",,,282
+66,10,2188,"Transit Center",,,283
+66,27,2192,"Wal-Mart",,,284
+66,27,2193,"Wal-Mart",,,285
+66,27,2194,"Wal-Mart",,,286
+66,27,2197,"Transit Center",,,287
+66,27,2198,"Transit Center",,,288
+5,7,2201,"Transit Center",,,50
+5,7,2202,"Transit Center",,,51
+5,7,2203,"Transit Center",,,52
+5,7,2204,"Transit Center",,,53
+5,9,2208,"Transit Center",,,289
+5,9,2209,"Transit Center",,,290
+5,9,2210,"Transit Center",,,291
+5,9,2211,"Transit Center",,,292
+5,9,2212,"Transit Center",,,293
+5,9,2213,"Transit Center",,,294
+5,9,2214,"Transit Center",,,295
+5,9,2215,"Transit Center",,,296
+5,9,2216,"Transit Center",,,297
+5,9,2217,"Transit Center",,,298
+5,9,2218,"Transit Center",,,299
+5,9,2219,"Transit Center",,,300
+5,9,2220,"Transit Center",,,301
+5,9,2251,"Man O' War Blvd",,,303
+5,9,2253,"Man O' War Blvd",,,304
+5,26,2254,"Transit Center",,,305
+5,26,2255,"Transit Center",,,306
+5,26,2256,"Transit Center",,,307
+65,7,2261,"Jaggie Fox",,,91
+65,7,2262,"Jaggie Fox",,,90
+65,7,2263,"Jaggie Fox",,,89
+66,7,2266,"Wal-Mart",,,199
+66,7,2267,"Wal-Mart",,,201
+68,9,2275,"Transit Center",,,224
+68,9,2276,"Transit Center",,,225
+66,9,2279,"Tates Creek and Appian Way",,,247
+66,9,2280,"Tates Creek and Appian Way",,,248
+67,7,2281,"Stanton Way",,,308
+67,7,2282,"Stanton Way",,,309
+67,7,2283,"Stanton Way",,,310
+67,7,2284,"Stanton Way",,,311
+67,7,2285,"Stanton Way",,,312
+67,7,2286,"Stanton Way",,,313
+67,7,2287,"Stanton Way",,,314
+67,7,2288,"Stanton Way",,,315
+67,7,2289,"Stanton Way",,,316
+67,7,2290,"Stanton Way",,,317
+67,7,2291,"Stanton Way",,,318
+67,7,2292,"Stanton Way",,,319
+67,7,2293,"Stanton Way",,,320
+67,7,2294,"Stanton Way",,,321
+67,7,2295,"Stanton Way",,,322
+67,7,2296,"Stanton Way",,,323
+67,7,2297,"Stanton Way",,,324
+67,7,2298,"Stanton Way",,,325
+67,7,2299,"Stanton Way",,,326
+67,7,2300,"Stanton Way",,,327
+67,7,2301,"Stanton Way",,,328
+67,7,2302,"Stanton Way",,,329
+67,7,2303,"Stanton Way",,,330
+67,7,2309,"Transit Center",,,331
+67,7,2310,"Transit Center",,,332
+67,7,2311,"Transit Center",,,333
+67,7,2312,"Transit Center",,,334
+67,7,2313,"Transit Center",,,335
+67,7,2314,"Transit Center",,,336
+67,7,2315,"Transit Center",,,337
+67,7,2316,"Transit Center",,,338
+67,7,2317,"Transit Center",,,339
+67,7,2318,"Transit Center",,,340
+67,7,2319,"Transit Center",,,341
+67,7,2320,"Transit Center",,,342
+67,7,2321,"Transit Center",,,343
+67,7,2322,"Transit Center",,,344
+67,7,2323,"Transit Center",,,345
+67,7,2324,"Transit Center",,,346
+67,7,2325,"Transit Center",,,347
+67,7,2326,"Transit Center",,,348
+67,7,2327,"Transit Center",,,349
+67,7,2328,"Transit Center",,,350
+67,7,2329,"Transit Center",,,351
+67,7,2330,"Transit Center",,,352
+67,7,2331,"Transit Center",,,353
+67,7,2332,"Transit Center",,,354
+67,7,2333,"Transit Center",,,355
+67,7,2334,"Transit Center",,,356
+67,7,2335,"Transit Center",,,357
+67,7,2336,"Transit Center",,,358
+67,9,2338,"Stanton Way",,,359
+67,9,2339,"Stanton Way",,,360
+67,9,2340,"Stanton Way",,,361
+67,9,2341,"Stanton Way",,,362
+67,9,2342,"Stanton Way",,,363
+67,9,2343,"Stanton Way",,,364
+67,9,2344,"Stanton Way",,,365
+67,9,2345,"Stanton Way",,,366
+67,9,2346,"Stanton Way",,,367
+67,9,2347,"Stanton Way",,,368
+67,9,2348,"Stanton Way",,,369
+67,9,2349,"Stanton Way",,,370
+67,9,2350,"Stanton Way",,,371
+67,9,2351,"Stanton Way",,,372
+67,9,2352,"Stanton Way",,,373
+67,9,2353,"Stanton Way",,,374
+67,9,2354,"Stanton Way",,,375
+67,9,2355,"Stanton Way",,,376
+67,9,2356,"Stanton Way",,,377
+67,9,2362,"Transit Center",,,378
+67,9,2363,"Transit Center",,,379
+67,9,2364,"Transit Center",,,380
+67,9,2365,"Transit Center",,,381
+67,9,2366,"Transit Center",,,382
+67,9,2367,"Transit Center",,,383
+67,9,2368,"Transit Center",,,384
+67,9,2369,"Transit Center",,,385
+67,9,2370,"Transit Center",,,386
+67,9,2371,"Transit Center",,,387
+67,9,2372,"Transit Center",,,388
+67,9,2373,"Transit Center",,,389
+67,9,2374,"Transit Center",,,390
+67,9,2375,"Transit Center",,,391
+67,9,2376,"Transit Center",,,392
+67,9,2377,"Transit Center",,,393
+67,9,2378,"Transit Center",,,394
+67,9,2379,"Transit Center",,,395
+67,9,2380,"Transit Center",,,396
+67,9,2381,"Transit Center",,,397
+67,9,2382,"Transit Center",,,398
+67,9,2383,"Transit Center",,,399
+67,9,2384,"Transit Center",,,400
+67,9,2385,"Transit Center",,,401
+67,10,2386,"Transit Center",,,402
+67,10,2387,"Transit Center",,,403
+67,10,2388,"Transit Center",,,404
+67,10,2389,"Transit Center",,,405
+67,10,2390,"Transit Center",,,406
+67,10,2391,"Transit Center",,,407
+67,10,2392,"Transit Center",,,408
+67,10,2393,"Transit Center",,,409
+67,10,2394,"Transit Center",,,410
+67,10,2395,"Transit Center",,,411
+67,10,2396,"Transit Center",,,412
+67,10,2397,"Transit Center",,,413
+67,10,2398,"Transit Center",,,414
+67,10,2399,"Transit Center",,,415
+67,10,2400,"Transit Center",,,416
+67,10,2410,"Stanton Way",,,417
+67,10,2411,"Stanton Way",,,418
+67,10,2412,"Stanton Way",,,419
+67,10,2413,"Stanton Way",,,420
+67,10,2414,"Stanton Way",,,421
+67,10,2415,"Stanton Way",,,422
+67,10,2416,"Stanton Way",,,423
+67,10,2417,"Stanton Way",,,424
+67,10,2418,"Stanton Way",,,425
+67,10,2419,"Stanton Way",,,426
+67,10,2420,"Stanton Way",,,427
+67,10,2421,"Stanton Way",,,428
+67,10,2422,"Stanton Way",,,429
+67,10,2423,"Stanton Way",,,430
+67,10,2433,"Stanton Way",,,431
+68,7,2434,"Wal-Mart",,,432
+68,7,2435,"Wal-Mart",,,433
+68,7,2436,"Wal-Mart",,,434
+68,7,2437,"Wal-Mart",,,435
+68,7,2438,"Wal-Mart",,,436
+68,7,2439,"Wal-Mart",,,437
+68,7,2440,"Wal-Mart",,,438
+68,7,2441,"Wal-Mart",,,439
+68,7,2442,"Wal-Mart",,,440
+68,7,2443,"Wal-Mart",,,441
+68,7,2444,"Wal-Mart",,,442
+68,7,2445,"Wal-Mart",,,443
+68,7,2446,"Wal-Mart",,,444
+68,7,2447,"Wal-Mart",,,445
+68,7,2448,"Wal-Mart",,,446
+68,7,2449,"Wal-Mart",,,447
+68,7,2450,"Wal-Mart",,,448
+68,7,2451,"Wal-Mart",,,449
+68,7,2452,"Wal-Mart",,,450
+68,7,2453,"Wal-Mart",,,451
+68,7,2454,"Wal-Mart",,,452
+68,7,2455,"Wal-Mart",,,453
+68,7,2456,"Wal-Mart",,,454
+68,7,2457,"Wal-Mart",,,455
+68,7,2458,"Wal-Mart",,,456
+68,7,2461,"Transit Center",,,458
+68,7,2462,"Transit Center",,,459
+68,7,2463,"Transit Center",,,460
+68,7,2464,"Transit Center",,,461
+68,7,2465,"Transit Center",,,462
+68,7,2466,"Transit Center",,,463
+68,7,2467,"Transit Center",,,464
+68,7,2468,"Transit Center",,,465
+68,7,2469,"Transit Center",,,466
+68,7,2470,"Transit Center",,,467
+68,7,2471,"Transit Center",,,468
+68,7,2472,"Transit Center",,,469
+68,7,2473,"Transit Center",,,470
+68,7,2474,"Transit Center",,,471
+68,7,2475,"Transit Center",,,472
+68,7,2476,"Transit Center",,,473
+68,7,2477,"Transit Center",,,474
+68,7,2478,"Transit Center",,,475
+68,7,2479,"Transit Center",,,476
+68,7,2480,"Transit Center",,,477
+68,7,2481,"Transit Center",,,478
+68,7,2482,"Transit Center",,,479
+68,7,2483,"Transit Center",,,480
+68,7,2484,"Transit Center",,,481
+68,7,2485,"Transit Center",,,482
+68,7,2486,"Transit Center",,,483
+68,10,2496,"Wal-Mart",,,485
+68,10,2497,"Wal-Mart",,,486
+68,10,2498,"Wal-Mart",,,487
+68,10,2499,"Wal-Mart",,,488
+68,10,2500,"Wal-Mart",,,489
+68,10,2501,"Wal-Mart",,,490
+68,10,2502,"Wal-Mart",,,491
+68,10,2503,"Wal-Mart",,,492
+68,10,2504,"Wal-Mart",,,493
+68,10,2505,"Wal-Mart",,,494
+68,10,2506,"Wal-Mart",,,495
+68,10,2507,"Wal-Mart",,,496
+68,10,2508,"Wal-Mart",,,497
+68,10,2509,"Wal-Mart",,,498
+68,10,2510,"Wal-Mart",,,499
+68,10,2512,"Transit Center",,,500
+68,10,2513,"Transit Center",,,501
+68,10,2514,"Transit Center",,,502
+68,10,2515,"Transit Center",,,503
+68,10,2516,"Transit Center",,,504
+68,10,2517,"Transit Center",,,505
+68,10,2518,"Transit Center",,,506
+68,10,2519,"Transit Center",,,507
+68,10,2520,"Transit Center",,,508
+68,10,2521,"Transit Center",,,509
+68,10,2522,"Transit Center",,,510
+68,10,2523,"Transit Center",,,511
+68,10,2524,"Transit Center",,,512
+68,10,2525,"Transit Center",,,513
+68,10,2526,"Transit Center",,,514
+68,9,2527,"Wal-Mart",,,538
+68,9,2528,"Wal-Mart",,,539
+68,9,2529,"Wal-Mart",,,540
+68,9,2530,"Wal-Mart",,,541
+68,9,2533,"Transit Center",,,542
+68,9,2534,"Transit Center",,,543
+68,9,2535,"Transit Center",,,544
+68,9,2536,"Transit Center",,,545
+68,9,2537,"Transit Center",,,546
+69,7,2538,"Pennebaker Drive",,,547
+69,7,2539,"Pennebaker Drive",,,548
+69,7,2540,"Pennebaker Drive",,,549
+69,7,2541,"Pennebaker Drive",,,550
+69,7,2542,"Pennebaker Drive",,,551
+69,7,2543,"Pennebaker Drive",,,552
+69,7,2544,"Pennebaker Drive",,,553
+69,7,2545,"Pennebaker Drive",,,554
+69,7,2546,"Pennebaker Drive",,,555
+69,7,2547,"Pennebaker Drive",,,556
+69,7,2548,"Pennebaker Drive",,,557
+69,7,2549,"Pennebaker Drive",,,558
+69,7,2550,"Pennebaker Drive",,,559
+69,7,2551,"Pennebaker Drive",,,560
+69,7,2552,"Pennebaker Drive",,,561
+69,7,2553,"Pennebaker Drive",,,562
+69,7,2554,"Pennebaker Drive",,,563
+69,7,2555,"Pennebaker Drive",,,564
+69,7,2556,"Pennebaker Drive",,,565
+69,7,2557,"Pennebaker Drive",,,566
+69,7,2558,"Pennebaker Drive",,,567
+69,7,2559,"Pennebaker Drive",,,568
+69,7,2560,"Pennebaker Drive",,,569
+69,7,2565,"Transit Center",,,570
+69,7,2566,"Transit Center",,,571
+69,7,2567,"Transit Center",,,572
+69,7,2568,"Transit Center",,,573
+69,7,2569,"Transit Center",,,574
+69,7,2570,"Transit Center",,,575
+69,7,2571,"Transit Center",,,576
+69,7,2572,"Transit Center",,,577
+69,7,2573,"Transit Center",,,578
+69,7,2574,"Transit Center",,,579
+69,7,2575,"Transit Center",,,580
+69,7,2576,"Transit Center",,,581
+69,7,2577,"Transit Center",,,582
+69,7,2578,"Transit Center",,,583
+69,7,2579,"Transit Center",,,584
+69,7,2580,"Transit Center",,,585
+69,7,2581,"Transit Center",,,586
+69,7,2582,"Transit Center",,,587
+69,7,2583,"Transit Center",,,588
+69,7,2584,"Transit Center",,,589
+69,7,2585,"Transit Center",,,590
+69,7,2586,"Transit Center",,,591
+69,7,2587,"Transit Center",,,592
+69,7,2588,"Transit Center",,,593
+69,7,2589,"Transit Center",,,594
+69,26,2594,"Pennebaker Drive",,,595
+69,26,2595,"Pennebaker Drive",,,596
+69,26,2596,"Pennebaker Drive",,,597
+69,7,2597,"Transit Center",,,598
+69,7,2598,"Transit Center",,,599
+69,7,2599,"Transit Center",,,600
+69,9,2600,"Pennebaker Drive",,,601
+69,9,2601,"Pennebaker Drive",,,602
+69,9,2602,"Pennebaker Drive",,,603
+69,9,2603,"Pennebaker Drive",,,604
+69,9,2604,"Pennebaker Drive",,,605
+69,9,2605,"Pennebaker Drive",,,606
+69,9,2606,"Pennebaker Drive",,,607
+69,9,2607,"Pennebaker Drive",,,608
+69,9,2608,"Pennebaker Drive",,,609
+69,9,2609,"Pennebaker Drive",,,610
+69,9,2610,"Pennebaker Drive",,,611
+69,9,2611,"Pennebaker Drive",,,612
+69,9,2612,"Pennebaker Drive",,,613
+69,9,2613,"Pennebaker Drive",,,614
+69,9,2614,"Pennebaker Drive",,,615
+69,9,2615,"Pennebaker Drive",,,616
+69,9,2616,"Pennebaker Drive",,,617
+69,9,2617,"Pennebaker Drive",,,618
+69,9,2618,"Pennebaker Drive",,,619
+69,9,2627,"Transit Center",,,620
+69,9,2628,"Transit Center",,,621
+69,9,2629,"Transit Center",,,622
+69,9,2630,"Transit Center",,,623
+69,9,2631,"Transit Center",,,624
+69,9,2632,"Transit Center",,,625
+69,9,2633,"Transit Center",,,626
+69,9,2634,"Transit Center",,,627
+69,9,2635,"Transit Center",,,628
+69,9,2636,"Transit Center",,,629
+69,9,2637,"Transit Center",,,630
+69,9,2638,"Transit Center",,,631
+69,9,2639,"Transit Center",,,632
+69,9,2640,"Transit Center",,,633
+69,9,2641,"Transit Center",,,634
+69,9,2642,"Transit Center",,,635
+69,9,2643,"Transit Center",,,636
+69,9,2644,"Transit Center",,,637
+69,9,2645,"Transit Center",,,638
+69,9,2646,"Transit Center",,,639
+69,9,2647,"Transit Center",,,640
+70,7,2651,"Anniston",,,641
+70,7,2652,"Anniston",,,642
+70,7,2653,"Anniston",,,643
+70,7,2654,"Anniston",,,644
+70,7,2655,"Anniston",,,645
+70,7,2656,"Anniston",,,646
+70,7,2657,"Anniston",,,647
+70,7,2658,"Anniston",,,648
+70,7,2659,"Anniston",,,649
+70,7,2660,"Anniston",,,650
+70,7,2661,"Anniston",,,651
+70,7,2662,"Anniston",,,652
+70,7,2663,"Anniston",,,653
+70,7,2664,"Anniston",,,654
+70,7,2665,"Anniston",,,655
+70,7,2666,"Anniston",,,656
+70,7,2667,"Anniston",,,657
+70,7,2668,"Anniston",,,658
+70,7,2669,"Anniston",,,659
+70,7,2670,"Anniston",,,660
+70,7,2671,"Anniston",,,661
+70,7,2672,"Anniston",,,662
+70,7,2673,"Anniston",,,663
+70,7,2678,"Transit Center",,,664
+70,7,2679,"Transit Center",,,665
+70,7,2680,"Transit Center",,,666
+70,7,2681,"Transit Center",,,667
+70,7,2682,"Transit Center",,,668
+70,7,2683,"Transit Center",,,669
+70,7,2684,"Transit Center",,,670
+70,7,2685,"Transit Center",,,671
+70,7,2686,"Transit Center",,,672
+70,7,2687,"Transit Center",,,673
+70,7,2688,"Transit Center",,,674
+70,7,2689,"Transit Center",,,675
+70,7,2690,"Transit Center",,,676
+70,7,2691,"Transit Center",,,677
+70,7,2692,"Transit Center",,,678
+70,7,2693,"Transit Center",,,679
+70,7,2694,"Transit Center",,,680
+70,7,2695,"Transit Center",,,681
+70,7,2696,"Transit Center",,,682
+70,7,2697,"Transit Center",,,683
+70,7,2698,"Transit Center",,,684
+70,7,2699,"Transit Center",,,685
+70,7,2700,"Transit Center",,,686
+70,7,2701,"Transit Center",,,687
+70,7,2702,"Transit Center",,,688
+70,7,2703,"Transit Center",,,689
+70,7,2704,"Transit Center",,,690
+70,7,2705,"Transit Center",,,691
+70,9,2733,"Anniston",,,692
+70,9,2734,"Anniston",,,693
+70,9,2735,"Anniston",,,694
+70,9,2736,"Anniston",,,695
+70,9,2737,"Anniston",,,696
+70,9,2738,"Anniston",,,697
+70,9,2739,"Anniston",,,698
+70,9,2740,"Anniston",,,699
+70,9,2741,"Anniston",,,700
+70,9,2742,"Anniston",,,701
+70,9,2743,"Anniston",,,702
+70,9,2744,"Anniston",,,703
+70,9,2745,"Anniston",,,704
+70,9,2746,"Anniston",,,705
+70,9,2747,"Anniston",,,706
+70,9,2748,"Anniston",,,707
+70,9,2749,"Anniston",,,708
+70,9,2750,"Anniston",,,709
+70,9,2751,"Anniston",,,710
+70,9,2755,"Transit Center",,,711
+70,9,2756,"Transit Center",,,712
+70,9,2757,"Transit Center",,,713
+70,9,2758,"Transit Center",,,714
+70,9,2759,"Transit Center",,,715
+70,9,2760,"Transit Center",,,716
+70,9,2761,"Transit Center",,,717
+70,9,2762,"Transit Center",,,718
+70,9,2763,"Transit Center",,,719
+70,9,2764,"Transit Center",,,720
+70,9,2765,"Transit Center",,,721
+70,9,2766,"Transit Center",,,722
+70,9,2767,"Transit Center",,,723
+70,9,2768,"Transit Center",,,724
+70,9,2769,"Transit Center",,,725
+70,9,2770,"Transit Center",,,726
+70,9,2771,"Transit Center",,,727
+70,9,2772,"Transit Center",,,728
+70,9,2773,"Transit Center",,,729
+70,9,2774,"Transit Center",,,730
+70,9,2775,"Transit Center",,,731
+70,9,2776,"Transit Center",,,732
+70,9,2777,"Transit Center",,,733
+70,9,2778,"Transit Center",,,734
+70,10,2779,"Anniston",,,735
+70,10,2780,"Anniston",,,736
+70,10,2781,"Anniston",,,737
+70,10,2782,"Anniston",,,738
+70,10,2783,"Anniston",,,739
+70,10,2784,"Anniston",,,740
+70,10,2785,"Anniston",,,741
+70,10,2786,"Anniston",,,742
+70,10,2787,"Anniston",,,743
+70,10,2788,"Anniston",,,744
+70,10,2789,"Anniston",,,745
+70,10,2790,"Anniston",,,746
+70,10,2791,"Anniston",,,747
+70,10,2792,"Anniston",,,748
+70,10,2793,"Anniston",,,749
+70,10,2794,"Transit Center",,,750
+70,10,2795,"Transit Center",,,751
+70,10,2796,"Transit Center",,,752
+70,10,2797,"Transit Center",,,753
+70,10,2798,"Transit Center",,,754
+70,10,2799,"Transit Center",,,755
+70,10,2800,"Transit Center",,,756
+70,10,2801,"Transit Center",,,757
+70,10,2802,"Transit Center",,,758
+70,10,2803,"Transit Center",,,759
+70,10,2804,"Transit Center",,,760
+70,10,2805,"Transit Center",,,761
+70,10,2806,"Transit Center",,,762
+70,10,2807,"Transit Center",,,763
+70,10,2808,"Transit Center",,,764
+71,7,2809,"Fayette Mall",,,765
+71,7,2810,"Fayette Mall",,,766
+71,7,2811,"Fayette Mall",,,767
+71,7,2812,"Fayette Mall",,,768
+71,7,2813,"Fayette Mall",,,769
+71,7,2814,"Fayette Mall",,,770
+71,7,2815,"Fayette Mall",,,771
+71,7,2816,"Fayette Mall",,,772
+71,7,2817,"Fayette Mall",,,773
+71,7,2818,"Fayette Mall",,,774
+71,7,2819,"Fayette Mall",,,775
+71,7,2820,"Fayette Mall",,,776
+71,7,2821,"Fayette Mall",,,777
+71,7,2822,"Fayette Mall",,,778
+71,7,2823,"Fayette Mall",,,779
+71,7,2824,"Fayette Mall",,,780
+71,7,2825,"Fayette Mall",,,781
+71,7,2826,"Fayette Mall",,,782
+71,7,2827,"Fayette Mall",,,783
+71,7,2828,"Fayette Mall",,,784
+71,7,2829,"Fayette Mall",,,785
+71,7,2830,"Turfland Mall",,,786
+71,7,2831,"Turfland Mall",,,787
+71,7,2836,"Transit Center",,,788
+71,7,2837,"Transit Center",,,798
+71,7,2838,"Transit Center",,,799
+71,7,2839,"Transit Center",,,800
+71,7,2840,"Transit Center",,,801
+71,7,2841,"Transit Center",,,802
+71,7,2842,"Transit Center",,,803
+71,7,2843,"Transit Center",,,804
+71,7,2844,"Transit Center",,,805
+71,7,2845,"Transit Center",,,806
+71,7,2846,"Transit Center",,,807
+71,7,2847,"Transit Center",,,808
+71,7,2848,"Transit Center",,,809
+71,7,2849,"Transit Center",,,810
+71,7,2850,"Transit Center",,,811
+71,7,2856,"Transit Center",,,789
+71,7,2857,"Transit Center",,,790
+71,7,2858,"Transit Center",,,791
+71,7,2859,"Transit Center",,,792
+71,7,2860,"Transit Center",,,793
+71,7,2861,"Transit Center",,,794
+71,7,2862,"Transit Center",,,795
+71,7,2863,"Transit Center",,,796
+71,7,2864,"Transit Center",,,797
+71,23,2865,"Palomar Centre",,,812
+71,23,2866,"Palomar Centre",,,813
+71,23,2867,"Palomar Centre",,,814
+71,9,2871,"Turfland Mall",,,815
+71,9,2872,"Turfland Mall",,,816
+71,9,2874,"Turfland Mall",,,817
+71,9,2875,"Fayette Mall",,,819
+71,9,2876,"Fayette Mall",,,820
+71,9,2877,"Fayette Mall",,,821
+71,9,2878,"Fayette Mall",,,822
+71,9,2879,"Fayette Mall",,,823
+71,9,2880,"Fayette Mall",,,824
+71,9,2881,"Fayette Mall",,,825
+71,9,2882,"Fayette Mall",,,826
+71,9,2883,"Fayette Mall",,,827
+71,9,2884,"Fayette Mall",,,828
+71,9,2885,"Fayette Mall",,,829
+71,9,2886,"Fayette Mall",,,830
+71,9,2887,"Fayette Mall",,,831
+71,9,2888,"Turfland Mall",,,832
+71,9,2889,"Turfland Mall",,,833
+71,9,2895,"Transit Center",,,834
+71,9,2896,"Transit Center",,,835
+71,9,2897,"Transit Center",,,836
+71,9,2898,"Transit Center",,,837
+71,9,2899,"Transit Center",,,838
+71,9,2900,"Transit Center",,,839
+71,9,2901,"Transit Center",,,840
+71,9,2902,"Transit Center",,,841
+71,9,2903,"Transit Center",,,842
+71,9,2904,"Transit Center",,,843
+71,9,2905,"Transit Center",,,844
+71,9,2906,"Transit Center",,,845
+71,9,2907,"Transit Center",,,846
+71,9,2908,"Transit Center",,,847
+71,9,2909,"Transit Center",,,848
+71,9,2910,"Transit Center",,,849
+71,9,2911,"Transit Center",,,850
+71,9,2912,"Transit Center",,,851
+71,9,2913,"Transit Center",,,852
+71,9,2914,"Transit Center",,,853
+71,9,2915,"Transit Center",,,854
+71,10,2919,"Turfland Mall",,,855
+71,10,2920,"Turfland Mall",,,856
+71,10,2921,"Turfland Mall",,,857
+71,10,2922,"Turfland Mall",,,858
+71,10,2923,"Turfland Mall",,,859
+71,10,2924,"Turfland Mall",,,860
+71,10,2925,"Turfland Mall",,,861
+71,10,2926,"Turfland Mall",,,862
+71,10,2927,"Turfland Mall",,,863
+71,10,2928,"Turfland Mall",,,864
+71,10,2929,"Turfland Mall",,,865
+71,10,2930,"Turfland Mall",,,866
+71,10,2931,"Turfland Mall",,,867
+71,10,2932,"Turfland Mall",,,868
+71,10,2933,"Turfland Mall",,,869
+71,10,2934,"Transit Center",,,870
+71,10,2935,"Transit Center",,,871
+71,10,2936,"Transit Center",,,872
+71,10,2937,"Transit Center",,,873
+71,10,2938,"Transit Center",,,874
+71,10,2939,"Transit Center",,,875
+71,10,2940,"Transit Center",,,876
+71,10,2941,"Transit Center",,,877
+71,10,2942,"Transit Center",,,878
+71,10,2943,"Transit Center",,,879
+71,10,2944,"Transit Center",,,880
+71,10,2945,"Transit Center",,,881
+71,10,2946,"Transit Center",,,882
+71,10,2947,"Transit Center",,,883
+71,10,2948,"Transit Center",,,884
+72,7,2949,"Post Office",,,885
+72,7,2950,"Post Office",,,886
+72,7,2951,"Post Office",,,887
+72,7,2952,"Post Office",,,888
+72,7,2953,"Post Office",,,889
+72,7,2954,"Post Office",,,891
+72,7,2955,"Post Office",,,890
+72,7,2956,"Post Office",,,892
+72,7,2957,"Post Office",,,893
+72,7,2958,"Post Office",,,894
+72,7,2959,"Post Office",,,895
+72,7,2960,"Post Office",,,896
+72,7,2961,"Post Office",,,897
+72,7,2962,"Post Office",,,898
+72,7,2963,"Post Office",,,899
+72,7,2964,"Post Office",,,900
+72,7,2965,"Post Office",,,901
+72,7,2966,"Post Office",,,902
+72,7,2967,"Post Office",,,903
+72,7,2968,"Post Office",,,904
+72,7,2969,"Post Office",,,905
+72,7,2970,"Post Office",,,906
+72,7,2971,"Post Office",,,907
+72,7,2976,"Transit Center",,,908
+72,7,2977,"Transit Center",,,909
+72,7,2978,"Transit Center",,,910
+72,7,2979,"Transit Center",,,911
+72,7,2980,"Transit Center",,,912
+72,7,2981,"Transit Center",,,913
+72,7,2982,"Transit Center",,,914
+72,7,2983,"Transit Center",,,915
+72,7,2984,"Transit Center",,,916
+72,7,2985,"Transit Center",,,917
+72,7,2986,"Transit Center",,,918
+72,7,2987,"Transit Center",,,919
+72,7,2988,"Transit Center",,,920
+72,7,2989,"Transit Center",,,921
+72,7,2990,"Transit Center",,,922
+72,7,2991,"Transit Center",,,923
+72,7,2992,"Transit Center",,,924
+72,7,2993,"Transit Center",,,925
+72,7,2994,"Transit Center",,,926
+72,7,2995,"Transit Center",,,927
+72,7,2996,"Transit Center",,,928
+72,7,2997,"Transit Center",,,929
+72,7,2998,"Transit Center",,,930
+72,7,2999,"Transit Center",,,931
+72,7,3000,"Transit Center",,,932
+72,26,3005,"Anniston",,,933
+72,26,3006,"Anniston",,,934
+72,26,3007,"Anniston",,,935
+72,9,3011,"Post Office",,,936
+72,9,3012,"Post Office",,,937
+72,9,3013,"Post Office",,,938
+72,9,3014,"Post Office",,,939
+72,9,3015,"Post Office",,,940
+72,9,3016,"Post Office",,,941
+72,9,3017,"Post Office",,,942
+72,9,3018,"Post Office",,,943
+72,9,3019,"Post Office",,,944
+72,9,3020,"Post Office",,,945
+72,9,3021,"Post Office",,,946
+72,9,3022,"Post Office",,,947
+72,9,3023,"Post Office",,,948
+72,9,3024,"Post Office",,,949
+72,9,3025,"Post Office",,,950
+72,9,3026,"Post Office",,,951
+72,9,3027,"Post Office",,,952
+72,9,3028,"Post Office",,,953
+72,9,3029,"Post Office",,,954
+72,9,3033,"Transit Center",,,955
+72,9,3034,"Transit Center",,,956
+72,9,3035,"Transit Center",,,957
+72,9,3036,"Transit Center",,,958
+72,9,3037,"Transit Center",,,959
+72,9,3038,"Transit Center",,,960
+72,9,3039,"Transit Center",,,961
+72,9,3040,"Transit Center",,,962
+72,9,3041,"Transit Center",,,963
+72,9,3042,"Transit Center",,,964
+72,9,3043,"Transit Center",,,965
+72,9,3044,"Transit Center",,,966
+72,9,3045,"Transit Center",,,967
+72,9,3046,"Transit Center",,,968
+72,9,3047,"Transit Center",,,969
+72,9,3048,"Transit Center",,,970
+72,9,3049,"Transit Center",,,971
+72,9,3050,"Transit Center",,,972
+72,9,3051,"Transit Center",,,973
+72,9,3052,"Transit Center",,,974
+72,9,3053,"Transit Center",,,975
+72,10,3057,"Post Office",,,976
+72,10,3058,"Post Office",,,977
+72,10,3059,"Post Office",,,978
+72,10,3060,"Post Office",,,979
+72,10,3061,"Post Office",,,980
+72,10,3062,"Post Office",,,981
+72,10,3063,"Post Office",,,982
+72,10,3064,"Post Office",,,983
+72,10,3065,"Post Office",,,984
+72,10,3066,"Post Office",,,985
+72,10,3067,"Post Office",,,986
+72,10,3068,"Post Office",,,987
+72,10,3069,"Post Office",,,988
+72,10,3070,"Post Office",,,989
+72,10,3071,"Post Office",,,990
+72,10,3072,"Transit Center",,,991
+72,10,3073,"Transit Center",,,992
+72,10,3074,"Transit Center",,,993
+72,10,3075,"Transit Center",,,994
+72,10,3076,"Transit Center",,,995
+72,10,3077,"Transit Center",,,996
+72,10,3078,"Transit Center",,,997
+72,10,3079,"Transit Center",,,998
+72,10,3080,"Transit Center",,,999
+72,10,3081,"Transit Center",,,1000
+72,10,3082,"Transit Center",,,1001
+72,10,3083,"Transit Center",,,1002
+72,10,3084,"Transit Center",,,1003
+72,10,3085,"Transit Center",,,1004
+72,10,3086,"Transit Center",,,1005
+73,7,3088,"Polo Club",,,1007
+73,7,3089,"Polo Club",,,1008
+73,7,3090,"Polo Club",,,1009
+73,7,3091,"Polo Club",,,1010
+73,7,3092,"Polo Club",,,1011
+73,7,3093,"Polo Club",,,1012
+73,7,3094,"Polo Club",,,1013
+73,7,3095,"Polo Club",,,1014
+73,7,3096,"Polo Club",,,1015
+73,7,3097,"Polo Club",,,1016
+73,7,3098,"Polo Club",,,1017
+73,7,3099,"Polo Club",,,1018
+73,7,3100,"Polo Club",,,1019
+73,7,3101,"Polo Club",,,1020
+73,7,3102,"Polo Club",,,1021
+73,7,3103,"Polo Club",,,1022
+73,7,3104,"Polo Club",,,1023
+73,7,3105,"Polo Club",,,1024
+73,7,3106,"Polo Club",,,1025
+73,7,3107,"Polo Club",,,1026
+73,7,3119,"Transit Center",,,1027
+73,7,3120,"Transit Center",,,1028
+73,7,3121,"Transit Center",,,1029
+73,7,3122,"Transit Center",,,1030
+73,7,3123,"Transit Center",,,1031
+73,7,3124,"Transit Center",,,1032
+73,7,3125,"Transit Center",,,1033
+73,7,3126,"Transit Center",,,1034
+73,7,3127,"Transit Center",,,1035
+73,7,3128,"Transit Center",,,1036
+73,7,3129,"Transit Center",,,1037
+73,7,3130,"Transit Center",,,1038
+73,7,3131,"Transit Center",,,1039
+73,7,3132,"Transit Center",,,1040
+73,7,3133,"Transit Center",,,1041
+73,7,3134,"Transit Center",,,1042
+73,7,3135,"Transit Center",,,1043
+73,7,3136,"Transit Center",,,1044
+73,7,3137,"Transit Center",,,1045
+73,7,3138,"Transit Center",,,1046
+73,7,3139,"Transit Center",,,1047
+73,7,3140,"Transit Center",,,1048
+73,7,3141,"Transit Center",,,1050
+73,7,3143,"Transit Center",,,1051
+73,7,3144,"Transit Center",,,1052
+73,7,3145,"Transit Center",,,1053
+73,7,3146,"Transit Center",,,1054
+73,7,3147,"Transit Center",,,1055
+73,9,3151,"Polo Club",,,1056
+73,9,3152,"Polo Club",,,1057
+73,9,3153,"Polo Club",,,1058
+73,9,3154,"Polo Club",,,1060
+73,9,3155,"Polo Club",,,1062
+73,9,3156,"Polo Club",,,1063
+73,9,3157,"Polo Club",,,1064
+73,9,3158,"Polo Club",,,1065
+73,9,3159,"Polo Club",,,1066
+73,9,3160,"Polo Club",,,1067
+73,9,3161,"Polo Club",,,1068
+73,9,3162,"Polo Club",,,1069
+73,9,3163,"Polo Club",,,1070
+73,9,3164,"Polo Club",,,1071
+73,9,3165,"Polo Club",,,1072
+73,9,3166,"Polo Club",,,1073
+73,9,3167,"Polo Club",,,1074
+73,9,3168,"Polo Club",,,1075
+73,9,3169,"Polo Club",,,1076
+73,9,3170,"Polo Club",,,1077
+73,9,3171,"Polo Club",,,1078
+73,9,3172,"Polo Club",,,1079
+73,9,3176,"Transit Center",,,1080
+73,9,3177,"Transit Center",,,1081
+73,9,3178,"Transit Center",,,1082
+73,9,3179,"Transit Center",,,1083
+73,9,3180,"Transit Center",,,1084
+73,9,3181,"Transit Center",,,1085
+73,9,3182,"Transit Center",,,1086
+73,9,3183,"Transit Center",,,1087
+73,9,3184,"Transit Center",,,1088
+73,9,3185,"Transit Center",,,1089
+73,9,3186,"Transit Center",,,1090
+73,9,3187,"Transit Center",,,1091
+73,9,3188,"Transit Center",,,1092
+73,9,3189,"Transit Center",,,1093
+73,9,3190,"Transit Center",,,1094
+73,9,3191,"Transit Center",,,1095
+73,9,3192,"Transit Center",,,1096
+73,9,3193,"Transit Center",,,1097
+73,9,3194,"Transit Center",,,1098
+73,9,3195,"Transit Center",,,1099
+73,9,3196,"Transit Center",,,1100
+73,9,3197,"Transit Center",,,1101
+73,9,3198,"Transit Center",,,1102
+73,9,3199,"Transit Center",,,1103
+73,9,3200,"Transit Center",,,1104
+73,10,3204,"Outbound",,,1105
+73,10,3205,"Outbound",,,1106
+73,10,3206,"Outbound",,,1107
+73,10,3207,"Outbound",,,1108
+73,10,3208,"Outbound",,,1109
+73,10,3209,"Outbound",,,1110
+73,10,3210,"Outbound",,,1111
+73,10,3211,"Outbound",,,1112
+73,10,3212,"Outbound",,,1113
+73,10,3213,"Outbound",,,1114
+73,10,3214,"Outbound",,,1115
+73,10,3215,"Outbound",,,1116
+73,10,3216,"Outbound",,,1117
+73,10,3217,"Outbound",,,1118
+73,10,3218,"Outbound",,,1119
+73,10,3219,"Transit Center",,,1120
+73,10,3220,"Transit Center",,,1121
+73,10,3221,"Transit Center",,,1122
+73,10,3222,"Transit Center",,,1123
+73,10,3223,"Transit Center",,,1124
+73,10,3224,"Transit Center",,,1125
+73,10,3225,"Transit Center",,,1126
+73,10,3226,"Transit Center",,,1127
+73,10,3227,"Transit Center",,,1128
+73,10,3228,"Transit Center",,,1129
+73,10,3229,"Transit Center",,,1130
+73,10,3230,"Transit Center",,,1131
+73,10,3231,"Transit Center",,,1132
+73,10,3232,"Transit Center",,,1133
+73,10,3233,"Transit Center",,,1134
+73,10,3234,"Transit Center",,,1135
+74,7,3235,"Saint Joseph Hospital",,,1136
+74,7,3236,"Saint Joseph Hospital",,,1137
+74,7,3237,"Saint Joseph Hospital",,,1138
+74,7,3238,"Saint Joseph Hospital",,,1139
+74,7,3239,"Saint Joseph Hospital",,,1140
+74,7,3240,"Saint Joseph Hospital",,,1141
+74,7,3241,"Saint Joseph Hospital",,,1142
+74,7,3242,"Saint Joseph Hospital",,,1143
+74,7,3243,"Saint Joseph Hospital",,,1144
+74,7,3244,"Saint Joseph Hospital",,,1145
+74,7,3245,"Saint Joseph Hospital",,,1146
+74,7,3246,"Saint Joseph Hospital",,,1147
+74,7,3247,"Saint Joseph Hospital",,,1148
+74,7,3248,"Saint Joseph Hospital",,,1149
+74,7,3249,"Saint Joseph Hospital",,,1150
+74,7,3250,"Saint Joseph Hospital",,,1151
+74,7,3251,"Saint Joseph Hospital",,,1152
+74,7,3252,"Saint Joseph Hospital",,,1153
+74,7,3253,"Saint Joseph Hospital",,,1154
+74,7,3254,"Saint Joseph Hospital",,,1155
+74,7,3255,"Saint Joseph Hospital",,,1156
+74,7,3256,"Saint Joseph Hospital",,,1157
+74,7,3257,"Saint Joseph Hospital",,,1158
+74,7,3262,"Transit Center",,,1159
+74,7,3263,"Transit Center",,,1160
+74,7,3264,"Transit Center",,,1161
+74,7,3265,"Transit Center",,,1162
+74,7,3266,"Transit Center",,,1163
+74,7,3267,"Transit Center",,,1164
+74,7,3268,"Transit Center",,,1165
+74,7,3269,"Transit Center",,,1166
+74,7,3270,"Transit Center",,,1167
+74,7,3271,"Transit Center",,,1168
+74,7,3272,"Transit Center",,,1169
+74,7,3273,"Transit Center",,,1171
+74,7,3274,"Transit Center",,,1170
+74,7,3275,"Transit Center",,,1172
+74,7,3276,"Transit Center",,,1173
+74,7,3277,"Transit Center",,,1174
+74,7,3278,"Transit Center",,,1175
+74,7,3279,"Transit Center",,,1176
+74,7,3280,"Transit Center",,,1177
+74,7,3281,"Transit Center",,,1178
+74,7,3282,"Transit Center",,,1179
+74,7,3283,"Transit Center",,,1180
+74,7,3284,"Transit Center",,,1181
+74,7,3285,"Transit Center",,,1182
+74,7,3286,"Transit Center",,,1183
+74,7,3287,"Transit Center",,,1184
+74,7,3288,"Transit Center",,,1185
+74,9,3291,"St. Joseph Hospital",,,1187
+74,9,3292,"St. Joseph Hospital",,,1188
+74,9,3293,"St. Joseph Hospital",,,1189
+74,9,3294,"St. Joseph Hospital",,,1190
+74,9,3295,"St. Joseph Hospital",,,1191
+74,9,3296,"St. Joseph Hospital",,,1192
+74,9,3297,"St. Joseph Hospital",,,1193
+74,9,3298,"St. Joseph Hospital",,,1194
+74,9,3299,"St. Joseph Hospital",,,1195
+74,9,3300,"St. Joseph Hospital",,,1196
+74,9,3301,"St. Joseph Hospital",,,1197
+74,9,3302,"St. Joseph Hospital",,,1198
+74,9,3303,"St. Joseph Hospital",,,1199
+74,9,3306,"Transit Center",,,1200
+74,9,3307,"Transit Center",,,1201
+74,9,3308,"Transit Center",,,1202
+74,9,3309,"Transit Center",,,1203
+74,9,3310,"Transit Center",,,1204
+74,9,3311,"Transit Center",,,1205
+74,9,3312,"Transit Center",,,1206
+74,9,3313,"Transit Center",,,1207
+74,9,3314,"Transit Center",,,1208
+74,9,3315,"Transit Center",,,1209
+74,9,3316,"Transit Center",,,1210
+74,9,3317,"Transit Center",,,1211
+74,9,3318,"Transit Center",,,1212
+74,9,3319,"Transit Center",,,1213
+74,9,3320,"Transit Center",,,1214
+74,9,3321,"Transit Center",,,1215
+74,10,3322,"St. Joseph Hospital",,,1217
+74,10,3323,"St. Joseph Hospital",,,1218
+74,10,3324,"St. Joseph Hospital",,,1219
+74,10,3325,"St. Joseph Hospital",,,1220
+74,10,3326,"St. Joseph Hospital",,,1221
+74,10,3327,"St. Joseph Hospital",,,1222
+74,10,3328,"St. Joseph Hospital",,,1223
+74,10,3329,"St. Joseph Hospital",,,1224
+74,10,3330,"St. Joseph Hospital",,,1225
+74,10,3331,"St. Joseph Hospital",,,1226
+74,10,3332,"St. Joseph Hospital",,,1227
+74,10,3333,"St. Joseph Hospital",,,1228
+74,10,3334,"St. Joseph Hospital",,,1229
+74,10,3335,"St. Joseph Hospital",,,1230
+74,10,3336,"St. Joseph Hospital",,,1231
+74,10,3337,"Transit Center",,,1232
+74,10,3338,"Transit Center",,,1233
+74,10,3339,"Transit Center",,,1234
+74,10,3340,"Transit Center",,,1235
+74,10,3341,"Transit Center",,,1236
+74,10,3342,"Transit Center",,,1237
+74,10,3343,"Transit Center",,,1238
+74,10,3344,"Transit Center",,,1239
+74,10,3345,"Transit Center",,,1240
+74,10,3346,"Transit Center",,,1241
+74,10,3347,"Transit Center",,,1242
+74,10,3348,"Transit Center",,,1243
+74,10,3349,"Transit Center",,,1244
+74,10,3350,"Transit Center",,,1245
+74,10,3351,"Transit Center",,,1246
+75,7,3352,"VA Hospital",,,1247
+75,7,3353,"VA Hospital",,,1248
+75,7,3354,"VA Hospital",,,1249
+75,7,3355,"VA Hospital",,,1250
+75,7,3356,"VA Hospital",,,1251
+75,7,3357,"VA Hospital",,,1252
+75,7,3358,"VA Hospital",,,1253
+75,7,3359,"VA Hospital",,,1254
+75,7,3360,"VA Hospital",,,1255
+75,7,3361,"VA Hospital",,,1256
+75,7,3362,"VA Hospital",,,1257
+75,7,3363,"VA Hospital",,,1259
+75,7,3364,"VA Hospital",,,1261
+75,7,3365,"VA Hospital",,,1262
+75,7,3366,"VA Hospital",,,1263
+75,7,3367,"VA Hospital",,,1264
+75,7,3368,"VA Hospital",,,1265
+75,7,3369,"VA Hospital",,,1266
+75,7,3370,"VA Hospital",,,1267
+75,7,3371,"VA Hospital",,,1268
+75,7,3372,"VA Hospital",,,1269
+75,7,3373,"VA Hospital",,,1270
+75,7,3375,"Transit Center",,,1271
+75,7,3376,"Transit Center",,,1272
+75,7,3377,"Transit Center",,,1273
+75,7,3378,"Transit Center",,,1274
+75,7,3379,"Transit Center",,,1275
+75,7,3380,"Transit Center",,,1276
+75,7,3381,"Transit Center",,,1277
+75,7,3382,"Transit Center",,,1278
+75,7,3383,"Transit Center",,,1279
+75,7,3384,"Transit Center",,,1280
+75,7,3385,"Transit Center",,,1281
+75,7,3386,"Transit Center",,,1282
+75,7,3387,"Transit Center",,,1283
+75,7,3388,"Transit Center",,,1284
+75,7,3389,"Transit Center",,,1285
+75,7,3390,"Transit Center",,,1286
+75,7,3391,"Transit Center",,,1287
+75,7,3392,"Transit Center",,,1288
+75,7,3393,"Transit Center",,,1289
+75,7,3394,"Transit Center",,,1290
+75,7,3395,"Transit Center",,,1291
+75,7,3396,"Transit Center",,,1292
+75,7,3397,"Transit Center",,,1293
+75,9,3398,"VA Hospital",,,1295
+75,9,3399,"VA Hospital",,,1296
+75,9,3400,"VA Hospital",,,1297
+75,9,3401,"VA Hospital",,,1298
+75,9,3402,"VA Hospital",,,1299
+75,9,3403,"VA Hospital",,,1300
+75,9,3404,"VA Hospital",,,1301
+75,9,3405,"VA Hospital",,,1302
+75,9,3406,"VA Hospital",,,1303
+75,9,3407,"VA Hospital",,,1304
+75,9,3408,"VA Hospital",,,1305
+75,9,3409,"VA Hospital",,,1306
+75,9,3410,"VA Hospital",,,1307
+75,9,3411,"VA Hospital",,,1308
+75,9,3412,"VA Hospital",,,1309
+75,9,3413,"VA Hospital",,,1310
+75,9,3414,"Transit Center",,,1312
+75,9,3415,"Transit Center",,,1313
+75,9,3416,"Transit Center",,,1314
+75,9,3417,"Transit Center",,,1315
+75,9,3418,"Transit Center",,,1316
+75,9,3419,"Transit Center",,,1317
+75,9,3420,"Transit Center",,,1318
+75,9,3421,"Transit Center",,,1319
+75,9,3422,"Transit Center",,,1320
+75,9,3423,"Transit Center",,,1321
+75,9,3424,"Transit Center",,,1322
+75,9,3425,"Transit Center",,,1323
+75,9,3426,"Transit Center",,,1324
+75,9,3427,"Transit Center",,,1325
+75,9,3428,"Transit Center",,,1326
+75,9,3429,"Transit Center",,,1327
+75,10,3430,"VA Hospital",,,1329
+75,10,3431,"VA Hospital",,,1330
+75,10,3432,"VA Hospital",,,1331
+75,10,3433,"VA Hospital",,,1332
+75,10,3434,"VA Hospital",,,1333
+75,10,3435,"VA Hospital",,,1334
+75,10,3436,"VA Hospital",,,1335
+75,10,3437,"VA Hospital",,,1336
+75,10,3438,"VA Hospital",,,1337
+75,10,3439,"VA Hospital",,,1338
+75,10,3440,"VA Hospital",,,1339
+75,10,3441,"VA Hospital",,,1340
+75,10,3442,"VA Hospital",,,1341
+75,10,3443,"VA Hospital",,,1342
+75,10,3444,"VA Hospital",,,1343
+75,10,3445,"VA Hospital",,,1344
+75,10,3446,"Transit Center",,,1345
+75,10,3447,"Transit Center",,,1346
+75,10,3448,"Transit Center",,,1347
+75,10,3449,"Transit Center",,,1348
+75,10,3450,"Transit Center",,,1349
+75,10,3451,"Transit Center",,,1350
+75,10,3452,"Transit Center",,,1351
+75,10,3453,"Transit Center",,,1352
+75,10,3454,"Transit Center",,,1353
+75,10,3455,"Transit Center",,,1354
+75,10,3456,"Transit Center",,,1355
+75,10,3457,"Transit Center",,,1356
+75,10,3458,"Transit Center",,,1357
+75,10,3459,"Transit Center",,,1358
+75,10,3460,"Transit Center",,,1359
+76,7,3461,"Palomar Center",,,1360
+76,7,3462,"Palomar Center",,,1361
+76,7,3463,"Palomar Center",,,1362
+76,7,3464,"Palomar Center",,,1363
+76,7,3465,"Palomar Center",,,1364
+76,7,3466,"Palomar Center",,,1365
+76,7,3467,"Palomar Center",,,1366
+76,7,3468,"Palomar Center",,,1367
+76,7,3469,"Palomar Center",,,1368
+76,7,3470,"Palomar Center",,,1369
+76,7,3471,"Palomar Center",,,1370
+76,7,3472,"Palomar Center",,,1371
+76,7,3473,"Palomar Center",,,1372
+76,7,3474,"Palomar Center",,,1373
+76,7,3475,"Palomar Center",,,1374
+76,7,3476,"Palomar Center",,,1375
+76,7,3477,"Palomar Center",,,1376
+76,7,3478,"Palomar Center",,,1377
+76,7,3479,"Palomar Center",,,1378
+76,7,3480,"Palomar Center",,,1379
+76,7,3481,"Palomar Center",,,1380
+76,7,3484,"Transit Center",,,1381
+76,7,3485,"Transit Center",,,1382
+76,7,3486,"Transit Center",,,1383
+76,7,3487,"Transit Center",,,1384
+76,7,3488,"Transit Center",,,1385
+76,7,3489,"Transit Center",,,1386
+76,7,3490,"Transit Center",,,1387
+76,7,3491,"Transit Center",,,1388
+76,7,3492,"Transit Center",,,1389
+76,7,3493,"Transit Center",,,1390
+76,7,3494,"Transit Center",,,1391
+76,7,3495,"Transit Center",,,1392
+76,7,3496,"Transit Center",,,1393
+76,7,3497,"Transit Center",,,1394
+76,7,3498,"Transit Center",,,1395
+76,7,3499,"Transit Center",,,1396
+76,7,3500,"Transit Center",,,1397
+76,7,3501,"Transit Center",,,1398
+76,7,3502,"Transit Center",,,1399
+76,7,3503,"Transit Center",,,1400
+76,7,3504,"Transit Center",,,1401
+76,9,3507,"Palomar Centre",,,1403
+76,9,3508,"Palomar Centre",,,1404
+76,9,3509,"Palomar Centre",,,1405
+76,9,3510,"Palomar Centre",,,1406
+76,9,3511,"Palomar Centre",,,1407
+76,9,3512,"Palomar Centre",,,1408
+76,9,3513,"Palomar Centre",,,1409
+76,9,3514,"Palomar Centre",,,1410
+76,9,3515,"Palomar Centre",,,1411
+76,9,3516,"Palomar Centre",,,1412
+76,9,3517,"Palomar Centre",,,1413
+76,9,3518,"Palomar Centre",,,1414
+76,9,3519,"Palomar Centre",,,1415
+76,9,3520,"Palomar Centre",,,1416
+76,9,3521,"Palomar Centre",,,1417
+76,9,3522,"Transit Center",,,1419
+76,9,3523,"Transit Center",,,1420
+76,9,3524,"Transit Center",,,1421
+76,9,3525,"Transit Center",,,1422
+76,9,3526,"Transit Center",,,1423
+76,9,3527,"Transit Center",,,1424
+76,9,3528,"Transit Center",,,1425
+76,9,3529,"Transit Center",,,1426
+76,9,3530,"Transit Center",,,1427
+76,9,3531,"Transit Center",,,1428
+76,9,3532,"Transit Center",,,1429
+76,9,3533,"Transit Center",,,1430
+76,9,3534,"Transit Center",,,1431
+76,9,3535,"Transit Center",,,1432
+76,9,3536,"Transit Center",,,1433
+76,9,3537,"Transit Center",,,1434
+76,10,3538,"Palomar Centre",,,1436
+76,10,3539,"Palomar Centre",,,1437
+76,10,3540,"Palomar Centre",,,1438
+76,10,3541,"Palomar Centre",,,1439
+76,10,3542,"Palomar Centre",,,1440
+76,10,3543,"Palomar Centre",,,1441
+76,10,3544,"Palomar Centre",,,1442
+76,10,3545,"Palomar Centre",,,1443
+76,10,3546,"Palomar Centre",,,1444
+76,10,3547,"Palomar Centre",,,1445
+76,10,3548,"Palomar Centre",,,1446
+76,10,3549,"Palomar Centre",,,1447
+76,10,3550,"Palomar Centre",,,1448
+76,10,3551,"Palomar Centre",,,1449
+76,10,3552,"Palomar Centre",,,1450
+76,10,3553,"Transit Center",,,1451
+76,10,3554,"Transit Center",,,1452
+76,10,3555,"Transit Center",,,1453
+76,10,3556,"Transit Center",,,1454
+76,10,3557,"Transit Center",,,1455
+76,10,3558,"Transit Center",,,1456
+76,10,3559,"Transit Center",,,1457
+76,10,3560,"Transit Center",,,1458
+76,10,3561,"Transit Center",,,1459
+76,10,3562,"Transit Center",,,1460
+76,10,3563,"Transit Center",,,1461
+76,10,3564,"Transit Center",,,1462
+76,10,3565,"Transit Center",,,1463
+76,10,3566,"Transit Center",,,1464
+76,10,3567,"Transit Center",,,1465
+77,7,3569,"BCTC",,,1466
+77,7,3570,"BCTC",,,1467
+77,7,3571,"BCTC",,,1468
+77,7,3572,"BCTC",,,1469
+77,7,3573,"BCTC",,,1470
+77,7,3574,"BCTC",,,1471
+77,7,3575,"BCTC",,,1472
+77,7,3576,"BCTC",,,1473
+77,7,3577,"BCTC",,,1474
+77,7,3578,"BCTC",,,1475
+77,7,3579,"BCTC",,,1476
+77,7,3580,"BCTC",,,1477
+77,7,3581,"BCTC",,,1478
+77,7,3582,"BCTC",,,1479
+77,7,3583,"BCTC",,,1480
+77,7,3584,"BCTC",,,1481
+77,7,3585,"BCTC",,,1482
+77,7,3586,"BCTC",,,1483
+77,7,3587,"BCTC",,,1484
+77,7,3588,"BCTC",,,1485
+77,7,3589,"BCTC",,,1486
+77,7,3593,"Transit Center",,,1487
+77,7,3594,"Transit Center",,,1488
+77,7,3595,"Transit Center",,,1489
+77,7,3596,"Transit Center",,,1490
+77,7,3597,"Transit Center",,,1491
+77,7,3598,"Transit Center",,,1492
+77,7,3599,"Transit Center",,,1493
+77,7,3600,"Transit Center",,,1494
+77,7,3601,"Transit Center",,,1495
+77,7,3602,"Transit Center",,,1496
+77,7,3603,"Transit Center",,,1497
+77,7,3604,"Transit Center",,,1498
+77,7,3605,"Transit Center",,,1499
+77,7,3606,"Transit Center",,,1500
+77,7,3607,"Transit Center",,,1501
+77,7,3608,"Transit Center",,,1502
+77,7,3609,"Transit Center",,,1503
+77,7,3610,"Transit Center",,,1504
+77,7,3611,"Transit Center",,,1505
+77,7,3612,"Transit Center",,,1506
+77,7,3613,"Transit Center",,,1507
+79,7,3642,"Outbound",,,1508
+79,7,3643,"Outbound",,,1509
+79,7,3644,"Outbound",,,1510
+79,7,3645,"Outbound",,,1511
+79,7,3646,"Outbound",,,1512
+79,7,3647,"Outbound",,,1513
+79,7,3648,"Outbound",,,1514
+79,7,3649,"Outbound",,,1515
+79,7,3650,"Outbound",,,1516
+79,7,3651,"Outbound",,,1517
+79,7,3652,"Outbound",,,1518
+79,7,3653,"Outbound",,,1519
+79,7,3654,"Outbound",,,1520
+79,7,3655,"Outbound",,,1521
+79,7,3658,"Transit Center",,,1522
+79,7,3659,"Transit Center",,,1523
+79,7,3660,"Transit Center",,,1524
+79,7,3661,"Transit Center",,,1525
+79,7,3662,"Transit Center",,,1526
+79,7,3663,"Transit Center",,,1527
+79,7,3664,"Transit Center",,,1528
+79,7,3665,"Transit Center",,,1529
+79,7,3666,"Transit Center",,,1530
+79,7,3667,"Transit Center",,,1531
+79,7,3668,"Transit Center",,,1532
+79,7,3669,"Transit Center",,,1533
+79,7,3670,"Transit Center",,,1534
+79,7,3671,"Transit Center",,,1535
+81,7,3682,"Outbound",,,1536
+81,7,3683,"Outbound",,,1537
+81,7,3684,"Outbound",,,1538
+81,7,3685,"Outbound",,,1539
+81,7,3686,"Outbound",,,1540
+81,7,3687,"Outbound",,,1541
+81,7,3688,"Outbound",,,1542
+81,7,3689,"Outbound",,,1543
+81,7,3690,"Outbound",,,1544
+81,7,3691,"Outbound",,,1545
+81,7,3695,"Transit Center",,,1546
+81,7,3696,"Transit Center",,,1547
+81,7,3697,"Transit Center",,,1548
+81,7,3698,"Transit Center",,,1549
+81,7,3699,"Transit Center",,,1550
+81,7,3700,"Transit Center",,,1551
+81,7,3701,"Transit Center",,,1552
+81,7,3702,"Transit Center",,,1553
+81,7,3703,"Transit Center",,,1554
+81,7,3704,"Transit Center",,,1555
+81,7,3705,"Transit Center",,,1556
+82,7,3708,"Beamont Centre Circle",,,1557
+82,7,3709,"Beamont Centre Circle",,,1558
+82,7,3710,"Beamont Centre Circle",,,1559
+82,7,3711,"Beamont Centre Circle",,,1560
+82,7,3712,"Beamont Centre Circle",,,1561
+82,7,3713,"Beamont Centre Circle",,,1562
+82,7,3714,"Beamont Centre Circle",,,1563
+82,7,3715,"Beamont Centre Circle",,,1564
+82,7,3716,"Beamont Centre Circle",,,1565
+82,7,3717,"Beamont Centre Circle",,,1566
+82,7,3718,"Beamont Centre Circle",,,1567
+82,7,3721,"Transit Center",,,1568
+82,7,3722,"Transit Center",,,1569
+82,7,3723,"Transit Center",,,1570
+82,7,3724,"Transit Center",,,1571
+82,7,3725,"Transit Center",,,1572
+82,7,3726,"Transit Center",,,1573
+82,7,3727,"Transit Center",,,1574
+82,7,3728,"Transit Center",,,1575
+82,7,3729,"Transit Center",,,1576
+82,7,3730,"Transit Center",,,1577
+82,7,3731,"Transit Center",,,1578
+83,25,3734,"Loop",,,1579
+83,25,3735,"Loop",,,1624
+83,25,3736,"Loop",,,1625
+83,25,3737,"Loop",,,1626
+83,25,3738,"Loop",,,1627
+83,25,3739,"Loop",,,1628
+83,25,3740,"Loop",,,1629
+83,25,3741,"Loop",,,1630
+83,25,3742,"Loop",,,1631
+83,25,3743,"Loop",,,1632
+83,25,3744,"Loop",,,1633
+83,25,3745,"Loop",,,1634
+83,25,3746,"Loop",,,1635
+83,25,3747,"Loop",,,1636
+83,25,3748,"Loop",,,1637
+83,25,3749,"Loop",,,1638
+83,25,3750,"Loop",,,1639
+83,25,3751,"Loop",,,1640
+83,25,3752,"Loop",,,1641
+83,25,3753,"Loop",,,1642
+83,25,3754,"Loop",,,1643
+83,25,3755,"Loop",,,1644
+83,25,3757,"Loop",,,1602
+83,25,3758,"Loop",,,1603
+83,25,3759,"Loop",,,1604
+83,25,3760,"Loop",,,1605
+83,25,3761,"Loop",,,1606
+83,25,3762,"Loop",,,1607
+83,25,3763,"Loop",,,1608
+83,25,3764,"Loop",,,1609
+83,25,3765,"Loop",,,1610
+83,25,3766,"Loop",,,1611
+83,25,3767,"Loop",,,1612
+83,25,3768,"Loop",,,1613
+83,25,3769,"Loop",,,1614
+83,25,3770,"Loop",,,1615
+83,25,3771,"Loop",,,1616
+83,25,3772,"Loop",,,1617
+83,25,3773,"Loop",,,1618
+83,25,3774,"Loop",,,1619
+83,25,3775,"Loop",,,1620
+83,25,3776,"Loop",,,1621
+83,25,3777,"Loop",,,1622
+83,25,3778,"Loop",,,1623
+83,25,3779,"Loop",,,1580
+83,25,3780,"Loop",,,1581
+83,25,3781,"Loop",,,1582
+83,25,3782,"Loop",,,1583
+83,25,3783,"Loop",,,1584
+83,25,3784,"Loop",,,1585
+83,25,3785,"Loop",,,1586
+83,25,3786,"Loop",,,1587
+83,25,3787,"Loop",,,1588
+83,25,3788,"Loop",,,1589
+83,25,3789,"Loop",,,1590
+83,25,3790,"Loop",,,1591
+83,25,3791,"Loop",,,1592
+83,25,3792,"Loop",,,1593
+83,25,3793,"Loop",,,1594
+83,25,3794,"Loop",,,1595
+83,25,3795,"Loop",,,1596
+83,25,3796,"Loop",,,1597
+83,25,3797,"Loop",,,1598
+83,25,3798,"Loop",,,1599
+83,25,3799,"Loop",,,1600
+83,25,3800,"Loop",,,1601
+83,7,3801,"Loop",,,1645
+83,7,3802,"Loop",,,1665
+83,7,3803,"Loop",,,1666
+83,7,3804,"Loop",,,1667
+83,7,3805,"Loop",,,1668
+83,7,3824,"Loop",,,1646
+83,7,3825,"Loop",,,1647
+83,7,3826,"Loop",,,1648
+83,7,3827,"Loop",,,1649
+83,7,3828,"Loop",,,1650
+83,7,3829,"Loop",,,1651
+83,7,3830,"Loop",,,1652
+83,7,3831,"Loop",,,1653
+83,7,3832,"Loop",,,1654
+83,7,3833,"Loop",,,1655
+83,7,3834,"Loop",,,1656
+83,7,3835,"Loop",,,1657
+83,7,3836,"Loop",,,1658
+83,7,3837,"Loop",,,1659
+83,7,3838,"Loop",,,1660
+83,7,3839,"Loop",,,1661
+83,7,3840,"Loop",,,1662
+83,7,3841,"Loop",,,1663
+83,7,3842,"Loop",,,1664
+84,7,3843,"Loop",,,1669
+84,7,3844,"Loop",,,1670
+84,7,3845,"Loop",,,1671
+84,7,3846,"Loop",,,1672
+84,7,3847,"Loop",,,1673
+84,7,3848,"Loop",,,1674
+84,7,3849,"Loop",,,1675
+84,7,3850,"Loop",,,1676
+84,7,3851,"Loop",,,1677
+84,7,3852,"Loop",,,1678
+84,7,3853,"Loop",,,1679
+84,7,3854,"Loop",,,1680
+84,7,3855,"Loop",,,1681
+84,7,3856,"Loop",,,1682
+84,7,3857,"Loop",,,1683
+84,7,3858,"Loop",,,1684
+84,7,3859,"Loop",,,1685
+84,25,3865,"Loop",,,1686
+84,25,3866,"Loop",,,1709
+84,25,3867,"Loop",,,1710
+84,25,3868,"Loop",,,1711
+84,25,3869,"Loop",,,1712
+84,25,3870,"Loop",,,1713
+84,25,3871,"Loop",,,1714
+84,25,3872,"Loop",,,1715
+84,25,3873,"Loop",,,1716
+84,25,3874,"Loop",,,1717
+84,25,3875,"Loop",,,1718
+84,25,3876,"Loop",,,1719
+84,25,3877,"Loop",,,1720
+84,25,3878,"Loop",,,1721
+84,25,3879,"Loop",,,1722
+84,25,3880,"Loop",,,1723
+84,25,3881,"Loop",,,1724
+84,25,3882,"Loop",,,1725
+84,25,3883,"Loop",,,1726
+84,25,3884,"Loop",,,1727
+84,25,3886,"Loop",,,1687
+84,25,3887,"Loop",,,1688
+84,25,3888,"Loop",,,1689
+84,25,3889,"Loop",,,1690
+84,25,3890,"Loop",,,1691
+84,25,3891,"Loop",,,1692
+84,25,3892,"Loop",,,1693
+84,25,3893,"Loop",,,1694
+84,25,3894,"Loop",,,1695
+84,25,3895,"Loop",,,1696
+84,25,3896,"Loop",,,1697
+84,25,3897,"Loop",,,1698
+84,25,3898,"Loop",,,1699
+84,25,3899,"Loop",,,1700
+84,25,3900,"Loop",,,1701
+84,25,3901,"Loop",,,1702
+84,25,3902,"Loop",,,1703
+84,25,3903,"Loop",,,1704
+84,25,3904,"Loop",,,1705
+84,25,3905,"Loop",,,1706
+84,25,3906,"Loop",,,1707
+84,25,3907,"Loop",,,1708
+68,9,3957,"Wal-Mart",,,516
+68,9,3958,"Wal-Mart",,,517
+68,9,3959,"Wal-Mart",,,518
+68,9,3960,"Wal-Mart",,,519
+68,9,3961,"Wal-Mart",,,520
+68,9,3962,"Wal-Mart",,,521
+68,9,3963,"Wal-Mart",,,522
+68,9,3964,"Wal-Mart",,,523
+68,9,3965,"Wal-Mart",,,524
+68,9,3966,"Wal-Mart",,,525
+68,9,3967,"Wal-Mart",,,526
+68,9,3968,"Wal-Mart",,,527
+68,9,3969,"Wal-Mart",,,528
+68,9,3970,"Wal-Mart",,,529
+68,9,3971,"Wal-Mart",,,530
+68,9,3972,"Wal-Mart",,,531
+68,9,3973,"Wal-Mart",,,532
+68,9,3974,"Wal-Mart",,,533
+68,9,3975,"Wal-Mart",,,534
+68,9,3976,"Wal-Mart",,,535
+68,9,3977,"Wal-Mart",,,536
+68,9,3979,"Wal-Mart",,,537
+66,7,4006,"Transit Center",,,1746
+66,7,4007,"Transit Center",,,1747
+66,7,4008,"Transit Center",,,1748
+66,7,4009,"Transit Center",,,1749
+66,7,4011,"Transit Center",,,1750
+66,7,4012,"Transit Center",,,1751
+66,7,4024,"Transit Center",,,1728
+66,7,4025,"Transit Center",,,1729
+66,7,4026,"Transit Center",,,1730
+66,7,4027,"Transit Center",,,1731
+66,7,4028,"Transit Center",,,1732
+66,7,4029,"Transit Center",,,1733
+66,7,4030,"Transit Center",,,1734
+66,7,4031,"Transit Center",,,1735
+66,7,4032,"Transit Center",,,1736
+66,7,4033,"Transit Center",,,1737
+66,7,4034,"Transit Center",,,1738
+66,7,4035,"Transit Center",,,1739
+66,7,4036,"Transit Center",,,1740
+66,7,4037,"Transit Center",,,1741
+66,7,4038,"Transit Center",,,1742
+66,7,4039,"Transit Center",,,1743
+66,7,4040,"Transit Center",,,1744
+66,7,4041,"Transit Center",,,1745
+69,10,4042,"Outbound",,,1752
+69,10,4043,"Outbound",,,1753
+69,10,4044,"Outbound",,,1754
+69,10,4045,"Outbound",,,1755
+69,10,4046,"Outbound",,,1756
+69,10,4047,"Outbound",,,1757
+69,10,4048,"Outbound",,,1758
+69,10,4049,"Outbound",,,1759
+69,10,4050,"Outbound",,,1760
+69,10,4051,"Outbound",,,1761
+69,10,4052,"Outbound",,,1762
+69,10,4053,"Outbound",,,1763
+69,10,4054,"Outbound",,,1764
+69,10,4055,"Outbound",,,1765
+69,10,4056,"Outbound",,,1766
+69,10,4057,"Transit Center",,,1767
+69,10,4058,"Transit Center",,,1768
+69,10,4059,"Transit Center",,,1769
+69,10,4060,"Transit Center",,,1770
+69,10,4061,"Transit Center",,,1771
+69,10,4062,"Transit Center",,,1772
+69,10,4063,"Transit Center",,,1773
+69,10,4064,"Transit Center",,,1774
+69,10,4065,"Transit Center",,,1775
+69,10,4066,"Transit Center",,,1776
+69,10,4067,"Transit Center",,,1777
+69,10,4068,"Transit Center",,,1778
+69,10,4069,"Transit Center",,,1779
+69,10,4070,"Transit Center",,,1780
+69,10,4071,"Transit Center",,,1781
+87,7,4081,"Transit Center",,,1782
+87,7,4082,"Transit Center",,,1783
+87,7,4083,"Transit Center",,,1784
+89,7,4084,"Counter-clockwise",,,1802
+89,7,4085,"Counter-clockwise",,,1803
+89,7,4086,"Counter-clockwise",,,1804
+89,7,4087,"Counter-clockwise",,,1805
+89,7,4088,"Counter-clockwise",,,1806
+89,7,4089,"Counter-clockwise",,,1807
+89,7,4090,"Counter-clockwise",,,1808
+89,7,4091,"Counter-clockwise",,,1809
+89,7,4092,"Counter-clockwise",,,1810
+89,7,4093,"Counter-clockwise",,,1811
+89,7,4099,"Counter-clockwise",,,1785
+89,7,4100,"Counter-clockwise",,,1786
+89,7,4101,"Counter-clockwise",,,1787
+89,7,4102,"Counter-clockwise",,,1788
+89,7,4103,"Counter-clockwise",,,1789
+89,7,4104,"Counter-clockwise",,,1790
+89,7,4105,"Counter-clockwise",,,1791
+89,7,4106,"Counter-clockwise",,,1792
+89,7,4107,"Counter-clockwise",,,1793
+89,7,4108,"Counter-clockwise",,,1794
+89,7,4109,"Counter-clockwise",,,1795
+89,7,4110,"Counter-clockwise",,,1796
+89,7,4111,"Counter-clockwise",,,1797
+89,7,4112,"Counter-clockwise",,,1798
+89,7,4113,"Counter-clockwise",,,1799
+89,7,4114,"Counter-clockwise",,,1800
+89,7,4115,"Counter-clockwise",,,1801
+89,7,4117,"Clockwise",,,1855
+89,7,4118,"Clockwise",,,1856
+89,7,4119,"Clockwise",,,1857
+89,7,4120,"Clockwise",,,1858
+89,7,4121,"Clockwise",,,1859
+89,7,4122,"Clockwise",,,1860
+89,7,4123,"Clockwise",,,1861
+89,7,4124,"Clockwise",,,1862
+89,7,4125,"Clockwise",,,1863
+89,7,4135,"Clockwise",,,1837
+89,7,4136,"Clockwise",,,1838
+89,7,4137,"Clockwise",,,1839
+89,7,4138,"Clockwise",,,1840
+89,7,4139,"Clockwise",,,1841
+89,7,4140,"Clockwise",,,1842
+89,7,4141,"Clockwise",,,1843
+89,7,4142,"Clockwise",,,1844
+89,7,4143,"Clockwise",,,1845
+89,7,4144,"Clockwise",,,1846
+89,7,4145,"Clockwise",,,1847
+89,7,4146,"Clockwise",,,1848
+89,7,4147,"Clockwise",,,1849
+89,7,4148,"Clockwise",,,1850
+89,7,4149,"Clockwise",,,1851
+89,7,4150,"Clockwise",,,1852
+89,7,4151,"Clockwise",,,1853
+89,7,4152,"Clockwise",,,1854
+68,10,4153,"Transit Center",,,515
+68,7,4154,"Wal-Mart",,,457
+87,7,4159,"Wal-Mart",,,1888
+87,7,4160,"Wal-Mart",,,1889
+87,7,4161,"Wal-Mart",,,1890
+90,7,4162,"Inbound",,,1891
+90,7,4163,"Inbound",,,1892
+90,7,4164,"Inbound",,,1893
+90,7,4165,"Inbound",,,1894
+90,7,4166,"Inbound",,,1895
+90,7,4167,"Inbound",,,1896
+90,7,4168,"Inbound",,,1897
+90,7,4169,"Inbound",,,1898
+90,7,4170,"Inbound",,,1899
+90,7,4171,"Inbound",,,1900
+90,7,4172,"Inbound",,,1901
+90,7,4173,"Inbound",,,1902
+90,7,4174,"Inbound",,,1903
+90,7,4175,"Inbound",,,1904
+90,7,4176,"Inbound",,,1905
+90,7,4177,"Inbound",,,1906
+90,7,4178,"Inbound",,,1907
+90,7,4179,"Inbound",,,1908
+90,7,4180,"Inbound",,,1909
+90,7,4181,"Inbound",,,1910
+90,7,4182,"Inbound",,,1911
+90,7,4183,"Inbound",,,1912
+90,7,4184,"Inbound",,,1913
+90,7,4185,"Inbound",,,1914
+90,7,4186,"Inbound",,,1915
+90,7,4187,"Inbound",,,1916
+90,7,4188,"Inbound",,,1917
+90,7,4189,"Inbound",,,1918
+90,7,4190,"Inbound",,,1919
+90,7,4191,"Inbound",,,1920
+90,7,4192,"Inbound",,,1921
+90,7,4193,"Inbound",,,1922
+90,7,4194,"Inbound",,,1923
+90,7,4195,"Inbound",,,1924
+90,7,4196,"Inbound",,,1925
+90,7,4197,"Inbound",,,1926
+90,7,4198,"Inbound",,,1927
+90,7,4199,"Inbound",,,1928
+90,7,4200,"Inbound",,,1929
+90,7,4201,"Inbound",,,1930
+90,7,4202,"Inbound",,,1931
+90,7,4203,"Inbound",,,1932
+90,7,4204,"Inbound",,,1933
+90,7,4205,"Inbound",,,1934
+90,7,4206,"Inbound",,,1935
+90,7,4207,"Inbound",,,1936
+90,7,4208,"Inbound",,,1937
+90,7,4209,"Inbound",,,1938
+90,7,4210,"Inbound",,,1939
+90,7,4211,"Inbound",,,1940
+90,7,4212,"Inbound",,,1941
+90,7,4213,"Inbound",,,1942
+90,7,4214,"Inbound",,,1943
+90,7,4215,"Inbound",,,1944
+90,7,4216,"Inbound",,,1945
+90,7,4217,"Inbound",,,1946
+90,7,4218,"Inbound",,,1947
+90,7,4219,"Inbound",,,1948
+90,7,4220,"Inbound",,,1949
+90,7,4221,"Inbound",,,1950
+90,7,4222,"Inbound",,,1951
+90,7,4223,"Inbound",,,1952
+90,7,4224,"Inbound",,,1953
+90,7,4225,"Inbound",,,1954
+90,7,4226,"Inbound",,,1955
+90,7,4227,"Inbound",,,1956
+90,7,4228,"Inbound",,,1957
+90,7,4229,"Inbound",,,1958
+90,7,4230,"Inbound",,,1959
+90,7,4231,"Inbound",,,1960
+90,7,4232,"Inbound",,,1961
+90,7,4233,"Inbound",,,1962
+90,7,4234,"Inbound",,,1963
+90,7,4235,"Inbound",,,1964
+90,7,4236,"Inbound",,,1965
+90,7,4237,"Inbound",,,1966
+90,7,4238,"Inbound",,,1967
+90,7,4239,"Inbound",,,1968
+90,7,4240,"Inbound",,,1969
+90,7,4241,"Inbound",,,1970
+90,7,4242,"Inbound",,,1971
+90,7,4243,"Inbound",,,1972
+90,7,4244,"Inbound",,,1973
+90,7,4245,"Inbound",,,1974
+90,7,4246,"Inbound",,,1975
+90,7,4247,"Inbound",,,1976
+90,7,4248,"Inbound",,,1977
+90,7,4249,"Inbound",,,1978
+90,7,4250,"Inbound",,,1979
+90,7,4251,"Inbound",,,1980
+90,7,4252,"Inbound",,,1981
+90,7,4253,"Inbound",,,1982
+90,7,4254,"Inbound",,,1983
+90,7,4255,"Inbound",,,1984
+90,7,4256,"Inbound",,,1985
+90,7,4257,"Inbound",,,1986
+90,7,4258,"Inbound",,,1987
+90,7,4259,"Inbound",,,1988
+90,7,4260,"Inbound",,,1989
+90,7,4261,"Inbound",,,1990
+90,7,4262,"Inbound",,,1991
+90,7,4263,"Inbound",,,1992
+90,7,4264,"Inbound",,,1993
+90,7,4265,"Inbound",,,1994
+90,7,4266,"Inbound",,,1995
+90,7,4267,"Inbound",,,1996
+90,7,4268,"Inbound",,,1997
+90,7,4269,"Inbound",,,1998
+90,7,4270,"Inbound",,,1999
+90,7,4271,"Inbound",,,2000
+90,7,4272,"Inbound",,,2001
+90,7,4293,"Outbound",,,2002
+90,7,4294,"Outbound",,,2003
+90,7,4295,"Outbound",,,2004
+90,7,4296,"Outbound",,,2005
+90,7,4297,"Outbound",,,2006
+90,7,4298,"Outbound",,,2007
+90,7,4299,"Outbound",,,2008
+90,7,4300,"Outbound",,,2009
+90,7,4301,"Outbound",,,2010
+90,7,4302,"Outbound",,,2011
+90,7,4303,"Outbound",,,2012
+90,7,4304,"Outbound",,,2013
+90,7,4305,"Outbound",,,2014
+90,7,4306,"Outbound",,,2015
+90,7,4307,"Outbound",,,2016
+90,7,4308,"Outbound",,,2017
+90,7,4309,"Outbound",,,2018
+90,7,4310,"Outbound",,,2019
+90,7,4311,"Outbound",,,2020
+90,7,4312,"Outbound",,,2021
+90,7,4313,"Outbound",,,2022
+90,7,4314,"Outbound",,,2023
+90,7,4315,"Outbound",,,2024
+90,7,4316,"Outbound",,,2025
+90,7,4317,"Outbound",,,2026
+90,7,4318,"Outbound",,,2027
+90,7,4319,"Outbound",,,2028
+90,7,4320,"Outbound",,,2029
+90,7,4321,"Outbound",,,2030
+90,7,4322,"Outbound",,,2031
+90,7,4323,"Outbound",,,2032
+90,7,4324,"Outbound",,,2033
+90,7,4325,"Outbound",,,2034
+90,7,4326,"Outbound",,,2035
+90,7,4327,"Outbound",,,2036
+90,7,4328,"Outbound",,,2037
+90,7,4329,"Outbound",,,2038
+90,7,4330,"Outbound",,,2039
+90,7,4331,"Outbound",,,2040
+90,7,4332,"Outbound",,,2041
+90,7,4333,"Outbound",,,2042
+90,7,4334,"Outbound",,,2043
+90,7,4335,"Outbound",,,2044
+90,7,4336,"Outbound",,,2045
+90,7,4337,"Outbound",,,2046
+90,7,4338,"Outbound",,,2047
+90,7,4339,"Outbound",,,2048
+90,7,4340,"Outbound",,,2049
+90,7,4341,"Outbound",,,2050
+90,7,4342,"Outbound",,,2051
+90,7,4343,"Outbound",,,2052
+90,7,4344,"Outbound",,,2053
+90,7,4345,"Outbound",,,2054
+90,7,4346,"Outbound",,,2055
+90,7,4347,"Outbound",,,2056
+90,7,4348,"Outbound",,,2057
+90,7,4349,"Outbound",,,2058
+90,7,4350,"Outbound",,,2059
+90,7,4351,"Outbound",,,2060
+90,7,4352,"Outbound",,,2061
+90,7,4353,"Outbound",,,2062
+90,7,4354,"Outbound",,,2063
+90,7,4355,"Outbound",,,2064
+90,7,4356,"Outbound",,,2065
+90,7,4357,"Outbound",,,2066
+90,7,4358,"Outbound",,,2067
+90,7,4359,"Outbound",,,2068
+90,7,4360,"Outbound",,,2069
+90,7,4361,"Outbound",,,2070
+90,7,4362,"Outbound",,,2071
+90,7,4363,"Outbound",,,2072
+90,7,4364,"Outbound",,,2073
+90,7,4365,"Outbound",,,2074
+90,7,4366,"Outbound",,,2075
+90,7,4367,"Outbound",,,2076
+90,7,4368,"Outbound",,,2077
+90,7,4369,"Outbound",,,2078
+90,7,4370,"Outbound",,,2079
+90,7,4371,"Outbound",,,2080
+90,7,4372,"Outbound",,,2081
+90,7,4373,"Outbound",,,2082
+90,7,4374,"Outbound",,,2083
+90,7,4375,"Outbound",,,2084
+90,7,4376,"Outbound",,,2085
+90,7,4377,"Outbound",,,2086
+90,7,4378,"Outbound",,,2087
+90,7,4379,"Outbound",,,2088
+90,7,4380,"Outbound",,,2089
+90,7,4381,"Outbound",,,2090
+90,7,4382,"Outbound",,,2091
+90,7,4383,"Outbound",,,2092
+90,7,4384,"Outbound",,,2093
+90,7,4385,"Outbound",,,2094
+90,7,4386,"Outbound",,,2095
+90,7,4387,"Outbound",,,2096
+90,7,4388,"Outbound",,,2097
+90,7,4389,"Outbound",,,2098
+90,7,4390,"Outbound",,,2099
+90,7,4391,"Outbound",,,2100
+90,7,4392,"Outbound",,,2101
+90,7,4393,"Outbound",,,2102
+90,7,4394,"Outbound",,,2103
+90,7,4395,"Outbound",,,2104
+90,7,4396,"Outbound",,,2105
+90,7,4397,"Outbound",,,2106
+90,7,4398,"Outbound",,,2107
+66,9,4423,"Transit Center",,,2108
+66,9,4424,"Transit Center",,,2109
+66,9,4425,"Transit Center",,,2110
+66,9,4426,"Transit Center",,,2111
+66,9,4427,"Transit Center",,,2112
+66,9,4428,"Transit Center",,,2113
+66,9,4429,"Transit Center",,,2114
+66,9,4430,"Transit Center",,,2115
+66,9,4431,"Transit Center",,,2116
+66,9,4432,"Transit Center",,,2117
+66,9,4433,"Transit Center",,,2118
+66,9,4434,"Transit Center",,,2119
+66,9,4435,"Transit Center",,,2120
+66,9,4436,"Transit Center",,,2121
+66,9,4437,"Transit Center",,,2122
+66,9,4438,"Transit Center",,,2123
+66,9,4439,"Transit Center",,,2124
+66,9,4440,"Transit Center",,,2125
+66,9,4441,"Transit Center",,,2126
+66,9,4442,"Transit Center",,,2127
+66,9,4443,"Transit Center",,,2128
+66,9,4444,"Transit Center",,,2129
+66,9,4445,"Transit Center",,,2130
+66,9,4447,"Transit Center",,,2131
+66,9,4448,"Transit Center",,,2132
+66,9,4449,"Transit Center",,,2133
+66,9,4450,"Transit Center",,,2134
+66,9,4451,"Transit Center",,,2135
+5,9,4453,"Transit Center",,,302
+66,9,4454,"Tates Creek and Appian Way",,,249
+66,9,4455,"Tates Creek and Appian Way",,,250
+66,9,4456,"Tates Creek and Appian Way",,,251
+68,7,4458,"Transit Center",,,484
+71,9,4461,"Fayette Mall",,,818
+74,9,4472,"Transit Center",,,1216
+75,7,4473,"VA Hospital",,,1260
+75,7,4474,"Transit Center",,,1294
+75,9,4475,"VA Hospital",,,1311
+75,9,4476,"Transit Center",,,1328
+76,9,4478,"Palomar Centre",,,1418
+76,9,4479,"Transit Center",,,1435
+79,9,4483,"Outbound",,,2136
+79,9,4484,"Outbound",,,2137
+79,9,4485,"Outbound",,,2138
+79,9,4486,"Outbound",,,2139
+79,9,4487,"Outbound",,,2140
+79,9,4488,"Outbound",,,2141
+79,9,4489,"Outbound",,,2142
+79,9,4490,"Outbound",,,2143
+79,9,4491,"Outbound",,,2144
+79,9,4492,"Outbound",,,2145
+79,9,4493,"Outbound",,,2146
+79,9,4494,"Outbound",,,2147
+79,9,4497,"Transit Center",,,2148
+79,9,4498,"Transit Center",,,2149
+79,9,4499,"Transit Center",,,2150
+79,9,4500,"Transit Center",,,2151
+79,9,4501,"Transit Center",,,2152
+79,9,4502,"Transit Center",,,2153
+79,9,4503,"Transit Center",,,2154
+79,9,4504,"Transit Center",,,2155
+79,9,4505,"Transit Center",,,2156
+79,9,4506,"Transit Center",,,2157
+79,9,4507,"Transit Center",,,2158
+79,9,4508,"Transit Center",,,2159
+91,7,4516,"Outbound",,,2160
+91,7,4517,"Outbound",,,2161
+91,7,4518,"Outbound",,,2162
+91,7,4519,"Outbound",,,2163
+91,7,4520,"Outbound",,,2164
+91,7,4521,"Outbound",,,2165
+91,7,4522,"Outbound",,,2166
+91,7,4523,"Outbound",,,2167
+91,7,4524,"Outbound",,,2168
+91,7,4525,"Outbound",,,2169
+91,7,4526,"Inbound",,,2170
+91,7,4527,"Inbound",,,2171
+91,7,4528,"Inbound",,,2172
+91,7,4529,"Inbound",,,2173
+91,7,4530,"Inbound",,,2174
+91,7,4531,"Inbound",,,2175
+91,7,4532,"Inbound",,,2176
+91,7,4533,"Inbound",,,2177
+91,7,4534,"Inbound",,,2178
+91,7,4535,"Inbound",,,2179
+91,7,4536,"Inbound",,,2180
+76,7,4538,"Transit Center",,,1402
+5,7,4539,"Man O' War Blvd",,,1
+5,7,4540,"Man O' War Blvd",,,2
+5,7,4541,"Man O' War Blvd",,,25
+65,7,4542,"Transit Center",,,116
+74,7,4544,"Transit Center",,,1186
+89,7,4546,"Counter-clockwise",,,1812
+89,7,4547,"Counter-clockwise",,,1813
+89,7,4548,"Counter-clockwise",,,1814
+89,7,4549,"Counter-clockwise",,,1815
+89,7,4550,"Counter-clockwise",,,1816
+89,7,4551,"Counter-clockwise",,,1817
+89,7,4552,"Counter-clockwise",,,1818
+89,7,4553,"Counter-clockwise",,,1819
+89,7,4554,"Counter-clockwise",,,1821
+89,7,4555,"Counter-clockwise",,,1822
+89,7,4556,"Counter-clockwise",,,1823
+89,7,4557,"Counter-clockwise",,,1824
+89,7,4559,"Counter-clockwise",,,1825
+89,7,4560,"Counter-clockwise",,,1826
+89,7,4561,"Counter-clockwise",,,1827
+89,7,4562,"Counter-clockwise",,,1828
+89,7,4563,"Counter-clockwise",,,1829
+89,7,4564,"Counter-clockwise",,,1830
+89,7,4565,"Counter-clockwise",,,1831
+89,7,4566,"Counter-clockwise",,,1832
+89,7,4567,"Counter-clockwise",,,1833
+89,7,4568,"Counter-clockwise",,,1834
+89,7,4569,"Counter-clockwise",,,1835
+89,7,4570,"Counter-clockwise",,,1836
+89,7,4584,"Clockwise",,,1864
+89,7,4585,"Clockwise",,,1865
+89,7,4586,"Clockwise",,,1866
+89,7,4587,"Clockwise",,,1867
+89,7,4588,"Clockwise",,,1868
+89,7,4589,"Clockwise",,,1869
+89,7,4590,"Clockwise",,,1870
+89,7,4591,"Clockwise",,,1871
+89,7,4592,"Clockwise",,,1872
+89,7,4593,"Clockwise",,,1873
+89,7,4594,"Clockwise",,,1874
+89,7,4595,"Clockwise",,,1875
+89,7,4596,"Clockwise",,,1876
+89,7,4597,"Clockwise",,,1877
+89,7,4598,"Clockwise",,,1878
+89,7,4599,"Clockwise",,,1879
+89,7,4600,"Clockwise",,,1880
+89,7,4601,"Clockwise",,,1881
+92,7,4623,"Outbound",,,2189
+92,7,4631,"Outbound",,,2181
+92,7,4632,"Outbound",,,2182
+92,7,4633,"Outbound",,,2183
+92,7,4634,"Outbound",,,2184
+92,7,4635,"Outbound",,,2185
+92,7,4636,"Outbound",,,2186
+92,7,4637,"Outbound",,,2187
+92,7,4638,"Outbound",,,2188
+92,7,4639,"Inbound",,,2190
+92,7,4640,"Inbound",,,2191
+92,7,4641,"Inbound",,,2192
+92,7,4642,"Inbound",,,2193
+92,7,4643,"Inbound",,,2194
+92,7,4644,"Inbound",,,2195
+92,7,4645,"Inbound",,,2196
+92,7,4646,"Inbound",,,2197
+92,7,4647,"Inbound",,,2198
+92,7,4648,"Inbound",,,2199
+74,9,4649,"Outbound",,,2200
+74,9,4650,"Outbound",,,2201
+74,9,4651,"Outbound",,,2202
+73,7,4652,"Transit Center",,,1049
+89,7,4654,"Counter-clockwise",,,1820
+73,7,4676,"Pavilion Way",,,2203
+73,7,4677,"Pavilion Way",,,2204
+73,7,4678,"Pavilion Way",,,2205
+73,7,4679,"Pavilion Way",,,2206
+73,7,4680,"Pavilion Way",,,2207
+73,7,4681,"Polo Club",,,1006
+73,9,4682,"Polo Club",,,1059
+73,9,4683,"Polo Club",,,1061
+89,7,4684,"Clockwise",,,1882
+89,7,4685,"Clockwise",,,1883
+89,7,4686,"Clockwise",,,1884
+89,7,4687,"Clockwise",,,1885
+89,7,4688,"Clockwise",,,1886
+89,7,4689,"Clockwise",,,1887
+75,7,4694,"VA Hospital",,,1258
